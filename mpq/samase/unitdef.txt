@@ -1,0 +1,680 @@
+# unitdef.txt file (External Definition)
+# This is a PyAI version of UNITDEF.INI made by Gold Dragon, used by ScAIEdit III
+
+# Initially modified to include all unit, upgrade, and tech entries.
+# Further modified by Veeq7 & Pr0nogo for Cosmonarchy
+# https://www.fraudsclub.com/cosmonarchy-bw/
+
+# AI IDs
+military disruption_web_unit = 105
+military dark_swarm_unit = 202
+military left_pit_door = 207
+military right_pit_door = 208
+
+# Unused IDs
+building left_upper_door = 205
+building right_upper_door = 206
+
+# Special
+building town_center_marker = 192
+building crashed_minotaur = 335
+building psi_disruptor = 336
+building power_generator = 337
+building overmind = 338
+building overmind_shell = 339
+building mature_chrysalis = 340
+building cerebrate = 341
+building overmind_cocoon = 342
+building khaydarin_formation = 343
+building protoss_temple = 344
+building xelnaga_temple = 345
+building warp_gate = 346
+building stasis_cell = 347
+
+# Heroes
+military ackmed = 408
+military goska = 500
+military stroluum = 501
+building tuzor = 502
+military infested_kerrigan_big = 612
+military raynor_vulture = 613
+military duke_minotaur = 614
+military raynor_maverick = 640
+
+# Terran military units
+military maverick = 0
+military eidolon = 1
+military vulture = 2
+military goliath = 3
+military phalanx = 5
+military phalanx_siege_mode = 30
+military wraith = 8
+military seraph = 9
+@spellcaster(seraph)
+military trojan = 11
+military minotaur = 12
+military morningstar = 14
+military harakan = 32
+military cleric = 34
+@spellcaster(cleric)
+military valkyrie = 58
+
+# Terran NGS units
+building talos = 20
+building ogun_worker = 494
+building ogun_smithy = 497
+#
+military apostle = 10
+military shaman = 15
+military madcap = 18
+military cuirass = 19
+military salamander = 22
+military gorgon = 23
+military phobos = 24
+military madrigal = 27
+military centaur = 28
+military pazuzu = 49
+military penumbra = 53
+military cyclops = 55
+military heracles = 77
+military wyvern = 91
+military cyprian = 92
+military azazel = 98
+military magnetar = 118
+military olympian = 137
+military autocrat = 145
+military striga = 148
+military siren = 151
+military paladin = 186
+military savant = 187
+military blackjack = 195
+military claymore = 196
+military sundog = 253
+military ancile = 255
+military matador = 256
+military hippogriff = 262
+military aion = 264
+military wendigo = 275
+military southpaw = 276
+military ramesses = 281
+military durendal = 282
+military cataphract = 283
+military dilettante = 285
+military sevenstep = 286
+military hypnagogue = 287
+military anticthon = 289
+military pythean = 290
+military heir = 293
+military horseman = 294
+military thespian = 297
+military silvertongue = 298
+military emperor = 300
+military jester = 301
+military madrigal_furia = 381
+military triton = 512
+
+# Terran factional units
+military cohort = 50
+military luminary = 150
+military aspirant = 194
+military tarasque = 263
+military philoc = 328
+military hotshot = 395
+military qilin = 398
+military auriel = 399
+military cyclops_futurist = 410
+military harakan_golden = 413
+military cleric_futurist = 418
+military blackjack_golden = 431
+military eidolon_nydus = 432
+military tiangou = 433
+military maverick_futurist = 435
+military blackguard = 489
+military arhaun = 490
+military cannibal = 496
+military madrigal_hecaton = 504
+military vulture_hecaton = 506
+military madrigal_hecaton_furia = 508
+military valkyrie_hecaton = 520
+military quadriga = 541
+military serathiel = 547
+military goremast = 567
+military broadside = 568
+military vulture_upstart = 570
+military maverick_upstart = 573
+military morrigan = 575
+military ajax = 576
+military maverick_golden = 580
+military shaman_upstart = 581
+military nuriel = 598
+military phoenix = 599
+military archbishop = 600
+military camazotz = 620
+military arquebus = 624
+military cyprian_hecaton = 641
+military memphis = 642
+@spellcaster(serathiel)
+
+# Terran buildings
+building mason = 7
+#
+building ministry = 106
+building comsat_station = 107
+building anvil = 108
+building supply_depot = 109
+building reservoir = 110
+building stockade = 111
+building fulcrum = 113
+building starport = 114
+building commandment = 115
+building daedala = 116
+building covenant = 117
+building palladium = 120
+building atlas = 122
+building watchdog = 124
+building anchor = 125
+
+# Terran NGS buildings
+building vestry = 119
+building rotary = 121
+building diadem = 127
+building guildhall = 147
+building fountainhead = 163
+building quarry = 174
+building tinkerers_tower = 175
+building hadron = 189
+building biotic_bastion = 190
+building iron_foundry = 198
+building captaincy = 199
+building scrapyard = 200
+building treasury = 215
+building starpad = 254
+building future_station = 257
+building quantum_institute = 259
+building sentinel = 260
+building nanite_assembly = 261
+building mantle = 280
+building apothecary = 284
+building parthenon = 288
+building iron_council = 295
+building amphitheater = 296
+building throneroom = 299
+building tencendur = 408
+building sieve = 419
+
+# Protoss military units
+military lanifect = 60
+military cabalist = 61
+military mind_tyrant = 63
+@spellcaster(mind_tyrant)
+military zealot = 65
+military dracadin = 66
+military cantavis = 67
+@spellcaster(cantavis)
+military archon = 68
+military envoy = 69
+military panoptus = 70
+military didact = 71
+military solarion = 72
+military steward = 73
+military witness = 84
+military accantor = 352
+
+# Protoss NGS units
+military manifold = 16
+military architect = 17
+military star_sovereign = 21
+military gladius = 25
+military magister = 26
+military legionnaire = 74
+military amaranth = 75
+military hierophant = 76
+military atreus = 78
+military ecclesiast = 79
+military aurora = 80
+military clarion = 81
+military empyrean = 82
+military demiurge = 86
+military pariah = 87
+military simulacrum = 89
+military charlatan = 90
+military exemplar = 94
+military idol = 99
+military golem = 100
+military augur = 102
+military barghest = 104
+military vagrant = 172
+military anthelion = 179
+military empress = 183
+military herald = 265
+military epigraph = 266
+military servitor = 306
+military positron = 307
+military analogue = 308
+military unar = 309
+military maven = 310
+military cloudform = 311
+military vibrance = 312
+military oscilliant = 313
+military potentate = 314
+military sycophant = 315
+military optecton = 316
+military patriarch = 317
+military apostate = 318
+military bulwark = 331
+military monogram = 348
+military vassal = 360
+
+# Protoss factional units
+military adherent = 400
+military extatus = 401
+military zealot_starbound = 411
+military ecclesiast_khalendric = 412
+military cicatus = 414
+military renesair = 423
+military ashguard = 424
+military dracadin_order = 430
+military manifold_starbound = 437
+military simulacrum_astral = 522
+military warlock = 523
+military simulacrum_khalendric = 621
+military idol_khalendric = 622
+military vestige = 623
+military gladius_order = 628
+
+# Protoss buildings
+building scribe = 64
+#
+building nexus = 154
+building lattice = 155
+building pylon = 156
+building aquifer = 157
+building gateway = 160
+building warden = 162
+building cenotaph = 164
+building ancestral_archives = 165
+building embassy = 166
+building stargate = 167
+building fleet_beacon = 169
+building synthetic_synod = 171
+
+# Protoss NGS buildings
+building artisan = 182
+building prudence = 184
+#
+building automaton_register = 158
+building prostration_stage = 159
+building rogue_gallery = 161
+building argosy = 168
+building crucible = 201
+building ardent_authority = 220
+building pennant = 221
+building monument_of_sin = 223
+building sanctum_of_sorrow = 225
+building grand_library = 226
+building matrix = 252
+building strident_stratum = 278
+building auxiliary_oasis = 279
+building engram = 294
+building sequestered_icon = 304
+building unitary_union = 305
+building hall_of_heretics = 349
+building cedent = 420
+building xenolith = 426
+
+# Zerg military units
+military zethrokor = 37
+military hydralisk = 38
+military ultrokor = 39
+military rilirokor = 40
+military mutalisk = 43
+military geszithalor = 44
+military matraleth = 45
+@spellcaster(matraleth)
+military isthrathaleth = 46
+@spellcaster(isthrathaleth)
+military vithrilisk = 62
+military lakizilisk = 103
+
+# Zerg NGS units
+military othstoleth = 57
+military alaszileth = 173
+military iroleth = 222
+#
+military almaksalisk = 29
+military alkajelisk = 48
+military kalkalisk = 51
+military evigrilisk = 52
+military nathrokor = 54
+military gorgrokor = 56
+military rililisk = 93
+military quazilisk = 95
+military keskathalor = 96
+military zoryusthaleth = 97
+military liiralisk = 112
+military sovroleth = 123
+military kagralisk = 126
+military vorvrokor = 128
+military bactalisk = 129
+military izirokor = 180
+military skithrokor = 185
+military axitrilisk = 191
+military konvilisk = 217
+military akistrokor = 218
+military zarcavrokor = 258
+military tethzorokor = 267
+military protathalor = 268
+military vilgorokor = 269
+military cikralisk = 270
+military tosgrilisk = 271
+military ghitorokor = 272
+military zobriolisk = 273
+military tetcaerokor = 274
+military selkerilisk = 277
+military ogroszaleth = 291
+military agrileth = 302
+military mortothrokor = 319
+military cherbrathalor = 320
+military okrimnilisk = 321
+military algoztalisk = 322
+military elthrazalisk = 323
+military begrothilisk = 324
+military oztukrokor = 325
+military kethrostalor = 326
+military rakzilisk = 327
+military sasyrvoleth = 407
+military skryrokor = 503
+
+# Zerg factional units
+military nathrelisk = 402
+military iziralisk = 403
+military inzorthrokor = 415
+military quazrokor = 422
+military lakizilisk_zorthos = 425
+military hydralisk_orkoti = 436
+military yblyleth = 438
+military azanthrokor = 511
+military sovrokor = 519
+military garvrokor = 521
+military zethalor = 559
+military scrylyleth = 560
+military zoltorokor = 604
+military rozirokor = 616
+military alzurokor = 626
+military hydrokor = 627
+military zethalisk = 630
+
+# Zerg misc
+military larva = 35
+military larva_egg = 36
+military cocoon = 59
+military ocsal_larva = 353
+
+# Zerg buildings
+building droleth = 41
+building ovileth = 42
+#
+building hachirosk = 131
+building caphrolosk = 132
+building gathtelosk = 133
+building nydus_cesiant = 134
+building hydrith_den = 135
+building elthisth_mound = 136
+building matravil_nest = 138
+building ulgorg_cavern = 140
+building mutath_spire = 141
+building quazeth_pool = 142
+building cagrant_cesiant = 143
+building spraith_cesiant = 144
+building surkith_cesiant = 146
+building excisant = 149
+
+# Zerg NGS buildings
+building gosvileth = 47
+#
+building axtoth_axis = 130
+building almakis_antre = 139
+building othstol_oviform = 152
+building tethvith_swamp = 153
+building alkag_iteth = 170
+building irulent_ivoa = 181
+building zorkiz_shroud = 193
+building tosvrol_haunt = 197
+building alkaj_chasm = 212
+building larvosk_cesiant = 216
+building geszkath_grotto = 219
+building irol_iris = 224
+building sibraelosk = 227
+building spirtith_cesiant = 292
+building skortrith_cesiant = 293
+building kethraj_keep = 303
+building begrozith_barrow = 329
+building chokral_chazsal = 330
+building nephrilosk = 350
+building ocsal_cesiant = 354
+building kazitrith_cesiant = 355
+building ezigrisant = 364
+building vornath_pond = 396
+building skibact_scab = 397
+building eskigant = 421
+building zozarc_gorge = 493
+building kalkiir_lake = 549
+
+# Askosi units
+military proselyte = 443
+military missionary = 445
+military cardinal = 446
+military mimic = 447
+military vicar = 448
+military rove = 449
+military object = 450
+military scepter = 451
+military intendent = 452
+military helion = 453
+military emissary = 454
+military inkblot = 455
+military tirade = 456
+military avatar = 538
+military thaumalogue = 542
+military petract = 543
+military crematorium = 544
+military aphorist = 551
+military doronin = 552
+military agonist = 553
+military phontis = 554
+military zonguard = 555
+military akreno = 556
+military iconoclast = 557
+military paraclete = 558
+military eyelet = 564
+military auxine = 565
+military insurant = 583
+military silversoul = 584
+military ghostwrit = 585
+military azjoran = 586
+military histrion = 587
+military elgird = 588
+military egocent = 589
+military alacyne = 590
+military begolor = 591
+military limire = 592
+military endbore = 593
+military tortare = 594
+military cybrene = 595
+
+# Askosi buildings
+building pilgrim = 439
+building dyad = 444
+building constituent = 566
+#
+building landlock = 429
+building arch = 457
+building grandstand = 458
+building chantry = 459
+building radix = 460
+building cipher = 461
+building function = 462
+building gauntlet = 463
+building cosmoscope = 464
+building Bounty = 510
+building grandstand_holdout = 532
+building grandstand_vision = 533
+building abutment = 539
+building proscenium = 540
+building zylode = 545
+building astrolabe = 546
+building panoply = 550
+building bestiary = 561
+building conduit = 562
+building obelisk = 563
+building dorminge = 577
+building lotiro = 578
+building domain = 579
+building lekrot = 596
+building hearthshard = 597
+
+# Askosi factional units
+military scralia = 615
+
+# Forerunner units
+military ferrum = 605
+military chalyb = 606
+military circitor = 607
+military exigo = 608
+military vicere = 610
+
+# Forerunner buildings
+building athla = 609
+#
+building machinamentum = 611
+
+# Misc units
+military goliath_turret = 4
+military t_tank_turret = 6
+military spider_mine = 13
+military t_siege_turret = 31
+military scanner_sweep = 33
+military plasma_shell = 85
+military map_revealer = 101
+
+# Neutral buildings
+building mineral_field1 = 176
+building mineral_field2 = 177
+building mineral_field3 = 178
+building vespene_geyser = 188
+building start_location = 214
+
+# Terran upgrades
+upgrade t_infantry_armor = 0
+upgrade t_vehicle_plating = 1
+upgrade t_ship_plating = 2
+upgrade t_infantry_weapon = 7
+upgrade t_vehicle_weapon = 8
+upgrade t_ship_weapon = 9
+upgrade maverick_range = 16
+upgrade vulture_speed = 17
+upgrade seraph_mana = 19
+upgrade eidolon_sight = 20
+upgrade eidolon_mana = 21
+upgrade wraith_mana = 22
+upgrade minotaur_mana = 23
+upgrade cleric_mana = 51
+upgrade goliath_range = 54
+
+# Terran tech
+technology stim_packs = 0
+technology spider_mines = 3
+technology siege_mode = 5
+technology defensive_matrix = 6
+technology irradiate = 7
+technology yamato_gun = 8
+technology cloaking_field = 9
+technology personnel_cloaking = 10
+technology medstims_unused = 24
+technology optical_flare = 30
+
+# Terran NGS tech
+technology lobotomy_mines = 1
+technology reverse_thrust = 2
+technology safety_off = 26
+technology lazarus_agent = 32
+technology tempo_change = 36
+technology skyfall = 37
+technology nanite_field = 38
+technology observance = 39
+technology sublime_shepherd = 40
+technology power_siphon = 41
+technology energy_decay = 42
+
+# Protoss upgrades
+upgrade p_armor = 5
+upgrade p_plating = 6
+upgrade p_ground_weapon = 13
+upgrade p_air_weapon = 14
+upgrade p_shields = 15
+upgrade dragoon_range = 33
+upgrade zealot_speed = 34
+upgrade reinforced_scarabs = 35
+upgrade reaver_capacity = 36
+upgrade shuttle_speed = 37
+upgrade observer_sight = 38
+upgrade observer_speed = 39
+upgrade templar_mana = 40
+upgrade scout_sight = 41
+upgrade scout_speed = 42
+upgrade carrier_capacity = 43
+upgrade arbiter_mana = 44
+upgrade lanifect_mana = 47
+upgrade mind_tyrant_mana = 49
+
+# Protoss tech
+technology psionic_storm = 19
+technology hallucination = 20
+technology recall = 21
+technology stasis_field = 22
+technology disruption_web = 25
+technology mind_control = 27
+technology feedback = 29
+technology maelstrom = 31
+
+# Protoss NGS tech
+technology grief_of_all_gods = 29
+technology khaydarin_eclipse = 33
+
+# Zerg upgrades
+upgrade z_carapace = 3
+upgrade z_flyer_carapace = 4
+upgrade z_melee_attack = 10
+upgrade z_missile_attack = 11
+upgrade z_flyer_attack = 12
+upgrade overlord_capacity = 24
+upgrade overlord_sight = 25
+upgrade overlord_speed = 26
+upgrade zethrokor_speed = 27
+upgrade zethrokor_attack = 28
+upgrade hydralisk_speed = 29
+upgrade hydralisk_range = 30
+upgrade queen_mana = 31
+upgrade defiler_mana = 32
+upgrade ultrokor_armor = 52
+upgrade ultrokor_speed = 53
+
+# Zerg tech
+technology burrowing = 11
+technology infestation = 12
+technology ensnaring_brood = 13
+technology dark_swarm = 14
+technology plague = 15
+technology consume = 16
+technology parasite = 18
+
+# Zerg NGS tech
+technology reconstitution = 26
+technology swarming_omen = 42
+
+# Misc upgrades
+upgrade mining_efficiency = 58
+upgrade unused_60 = 60
+
+# Misc tech
+technology unused_43 = 43

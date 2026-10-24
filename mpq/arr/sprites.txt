@@ -1,0 +1,2000 @@
+2/38 Ash
+2/39 Ash
+2/41 Ash
+2/40 Ash
+2/42 Ash
+2/43 Ash
+2/44 Ash
+2/1 Ash
+2/4 Ash
+2/5 Ash
+2/30 Ash
+2/28 Ash
+2/29 Ash
+4/1 Ash
+4/2 Ash
+4/3 Ash
+4/56 Jungle
+4/57 Jungle
+4/58 Jungle
+4/59 Jungle
+9/5 Jungle
+9/6 Jungle
+9/7 Jungle
+4/51 Jungle
+4/52 Jungle
+4/54 Jungle
+4/53 Jungle
+9/1 Jungle
+9/2 Jungle
+9/3 Jungle
+9/4 Jungle
+4/12 Jungle
+4/13 Jungle
+4/1 Jungle
+4/3 Jungle
+4/2 Jungle
+4/5 Jungle
+4/4 Jungle
+4/9 Jungle
+4/10 Jungle
+5/5 Jungle
+5/7 Jungle
+5/6 Jungle
+5/9 Jungle
+5/8 Jungle
+4/6 Jungle
+4/7 Jungle
+4/17 Jungle
+13/4 Jungle
+11/5 Jungle
+11/6 Jungle
+11/7 Jungle
+11/8 Jungle
+11/10 Jungle
+11/11 Jungle
+11/12 Jungle
+7/4 Platform
+7/5 Platform
+7/6 Platform
+7/1 Platform
+7/2 Platform
+7/3 Platform
+7/9 Platform
+7/10 Platform
+7/8 Platform
+7/7 Platform
+7/26 Platform
+7/24 Platform
+7/28 Platform
+7/27 Platform
+7/25 Platform
+7/29 Platform
+7/30 Platform
+7/31 Platform
+12/1 Platform
+9/27 Platform
+5/54 Badlands
+5/55 Badlands
+5/56 Badlands
+5/57 Badlands
+6/16 Badlands
+6/17 Badlands
+6/20 Badlands
+6/21 Badlands
+5/10 Badlands
+5/50 Badlands
+5/52 Badlands
+5/53 Badlands
+5/51 Badlands
+6/3 Badlands
+11/3 Badlands
+11/8 Badlands
+11/6 Badlands
+11/7 Badlands
+11/9 Badlands
+11/10 Badlands
+11/11 Badlands
+11/12 Badlands
+11/13 Badlands
+11/14 Badlands
+1/13 Badlands
+1/9 Badlands
+1/11 Badlands
+1/14 Badlands
+1/10 Badlands
+1/12 Badlands
+1/15 Badlands
+1/7 Badlands
+1/5 Badlands
+1/16 Badlands
+1/8 Badlands
+1/6 Badlands1
+1/6 Badlands2
+1/6 Badlands3
+1/6 Badlands4
+1/6 Badlands5
+1/6 Badlands6
+1/6 Badlands7
+1/6 Badlands8
+4/15 Installation1
+4/15 Installation2
+3/9 Installation
+3/10 Installation
+3/11 Installation
+3/12 Installation
+1/6 Badlands9
+1/6 Badlands10
+3/1 Installation
+3/2 Installation
+1/6 Badlands11
+Skryrokor
+Skryrokor Death
+Skryrokor Explosion
+Rilirokor
+Rilirokor Remnants
+Infested Terran
+Infested Terran Explosion
+Cocoon
+Isthrathaleth
+Isthrathaleth Remnants
+Droleth
+Droleth Remnants
+Egg
+Egg Remnants
+Geszithalor
+Geszithalor Death
+Hydralisk
+Hydralisk Remnants
+Infested Kerrigan
+Larva
+Larva Remnants
+Mutalisk
+Mutalisk Death
+Ovileth
+Ovileth Death
+Matraleth
+Matraleth Death
+Ultrokor
+Ultrokor Remnants
+Zethrokor
+Zethrokor Remnants
+Cerebrate
+Infested Ministry
+Quazeth Pool
+Mature Chrysalis
+Almakis Antre
+Cagrant Colony
+Hachirosk
+Gathtelosk
+Caphrolosk
+Surkith Colony
+Vithrath Haunt
+Rakzogth Roost
+Matravil Nest
+Nydus Cesiant
+Overmind With Shell
+Overmind Without Shell
+Ulgorg Cavern
+Excisant
+Hydrith Den
+Mutath Spire
+Spraith Cesiant
+Zerg Building Spawn (Small)
+Zerg Building Spawn (Medium)
+Zerg Building Spawn (Large)
+Zerg Building Explosion
+Zerg Building Rubble (Small)
+Zerg Building Rubble (Large)
+Didact
+Archon Energy
+Solarion
+Dracadin
+Dracadin Remains
+Steward
+Scribe
+Scout (deprecated)
+Envoy
+Cantavis
+Dark Templar (Hero)
+Accantor
+Plasma Shell
+Zealot
+Witness
+Templar Archives
+Aquifer
+Machinist Hall
+Citadel of Adun
+Embassy
+Gateway
+Cenotaph
+Khaydarin Crystal Formation
+Nexus
+Warden
+Celestial Tribune
+Pylon
+Lattice
+Shield Battery
+Stargate
+Stasis Cell/Prison
+Robotics Support Bay
+Protoss Temple
+Fleet Beacon
+Explosion (Large)
+Protoss Building Rubble (Small)
+Protoss Building Rubble (Large)
+Minotaur
+Civilian
+Trojan
+Harakan
+Eidolon
+Eidolon Remnants
+Nuke Target Dot
+Goliath Base
+Goliath Turret
+Sarah Kerrigan
+Maverick
+Maverick Remnants
+Scanner Sweep
+Wraith
+Mason
+Phalanx (Tank) Base
+Phalanx (Tank) Turret
+Phalanx (Siege) Base
+Phalanx (Siege) Turret
+Vulture
+Spider Mine
+Seraph (Base)
+Seraph (Turret)
+Fountainhead
+Stockade
+Atelier
+Comsat Station
+Ministry
+Supply Depot
+Commandment
+Fulcrum
+Covert Ops
+Ion Cannon (old, unused)
+Machine Shop
+Watchdog (Base)
+Crashed Minotaur
+Physics Lab
+Anchor
+Reservoir
+Daedala
+Anvil
+Morningstar
+Nuke Hit
+Starport
+Atlas
+Terran Construction (Large)
+Terran Construction (Small)
+Building Explosion (Large)
+Terran Building Rubble (Small)
+Terran Building Rubble (Large)
+Vespene Geyser
+Ragnasaur (Ash)
+Rhynadon (Badlands)
+Bengalaas (Jungle)
+Mineral Field Type1
+Mineral Field Type2
+Mineral Field Type3
+Facade
+Zerg Beacon
+Terran Beacon
+Protoss Beacon
+Carapace Swarm
+Flag
+Young Chrysalis
+Psi Emitter
+Data Disk
+Khaydarin Crystal
+Mineral Chunk Type1
+Mineral Chunk Type2
+Protoss Gas Orb Type1
+Protoss Gas Orb Type2
+Zerg Gas Sac Type1
+Zerg Gas Sac Type2
+Terran Gas Tank Type1
+Terran Gas Tank Type2
+White Circle (Invisible)
+Start Location
+Map Revealer
+Floor Gun Trap
+Wall Missile Trap
+Wall Missile Trap2
+Wall Flame Trap
+Wall Flame Trap2
+Floor Missile Trap
+Longbolt/Gemini Missiles Trail
+Grenade Shot Smoke
+Vespene Geyser Smoke1
+Vespene Geyser Smoke2
+Vespene Geyser Smoke3
+Vespene Geyser Smoke4
+Vespene Geyser Smoke5
+Energy Pulse Underlay
+Double Explosion
+Cursor Marker
+Egg Spawn
+Cantavis Glow
+Psi Field (Right Upper)
+Burrowing Dust
+Building Landing Dust Type1
+Building Landing Dust Type2
+Building Landing Dust Type3
+Building Landing Dust Type4
+Building Landing Dust Type5
+Building Lifting Dust Type1
+Building Lifting Dust Type2
+Building Lifting Dust Type3
+Building Lifting Dust Type4
+Needle Spines
+Dual Photon Blasters Hit
+Particle Beam Hit
+Anti-Matter Missile
+Pulse Cannon
+Phase Disruptor
+STA/STS Photon Cannon Overlay
+Psionic Storm
+Fusion Cutter Hit
+Gauss Rifle Hit
+Gemini Missiles
+Fragmentation Grenade
+Magna Pulse (Unused)
+Lockdown/LongBolt/Hellfire Missile
+C-10 Canister Rifle Hit
+ATS/ATA Laser Battery
+Burst Lasers
+Arclite Shock Cannon Hit
+Yamato Gun
+Yamato Gun Trail
+EMP Shockwave Missile
+Needle Spine Hit
+Plasma Drip Hit (Unused)
+Surkith Colony Tentacle
+Venom
+Acid Spore
+Glave Wurm
+Seeker Spores
+Queen Spell Holder
+Stasis Field Hit
+Plague Cloud
+Consume
+Ensnare
+Glave Wurm/Seeker Spores Hit
+Psionic Shockwave Hit
+Glave Wurm Trail
+Seeker Spores Overlay
+Phase Disruptor (Unused)
+White Circle
+Acid Spray (Unused)
+Plasma Drip (Unused)
+Scarab/Anti-Matter Missile Overlay
+Hallucination Death1
+Hallucination Death2
+Hallucination Death3
+Anchor Attack Overlay (Orange)
+Flamethrower
+Recall Field
+Scanner Sweep Hit
+Left Upper Level Door
+Right Upper Level Door
+Substructure Left Door
+Substructure Right Door
+Substructure Opening Hole
+7/13 Twilight
+7/14 Twilight
+7/16 Twilight
+7/15 Twilight
+7/19 Twilight
+7/20 Twilight
+7/21 Twilight
+Unknown Twilight
+7/17 Twilight
+6/1 Twilight
+6/2 Twilight
+6/3 Twilight
+6/4 Twilight
+6/5 Twilight
+8/3 Twilight
+8/3 Twilight
+9/29 Ice
+9/28 Ice
+12/38 Ice
+12/37 Ice
+12/33 Ice
+9/21 Ice
+9/15 Ice
+9/16 Ice
+Unknown410
+Unknown411
+12/9 Ice1
+12/10 Ice
+9/24 Ice
+9/23 Ice
+Unknown416
+12/7 Ice
+12/8 Ice
+12/9 Ice2
+12/10 Ice
+12/40 Ice
+12/41 Ice
+12/42 Ice
+12/5 Ice
+12/6 Ice
+12/36 Ice
+12/32 Ice
+12/33 Ice
+12/34 Ice
+12/24 Ice
+12/25 Ice
+9/22 Ice
+12/31 Ice
+12/20 Ice
+12/24 Ice
+12/25 Ice
+12/30 Ice
+12/30 Ice
+Unknown439
+4/1 Ice
+6/1 Ice
+5/6 Ice
+5/7 Ice
+5/8 Ice
+5/9 Ice
+10/10 Desert1
+10/12 Desert1
+10/8 Desert
+10/9 Desert1
+6/10 Desert
+6/13 Desert
+Unknown Desert
+10/12 Desert2
+10/9 Desert2
+10/10 Desert2
+10/11 Desert
+10/14 Desert
+10/41 Desert
+10/39 Desert
+10/8 Desert
+10/6 Desert
+10/7 Desert
+4/6 Desert
+4/11 Desert
+4/10 Desert
+4/9 Desert
+4/7 Desert
+4/12 Desert
+4/8 Desert
+4/13 Desert
+6/13 Desert
+4/17 Desert
+6/20 Desert
+4/15 Desert1
+4/15 Desert2
+10/23 Desert
+8/23 Desert
+10/5 Desert
+12/1 Desert Overlay
+11/3 Desert
+Lakizilisk Egg (unused)
+Vithrilisk
+Vithrilisk Death
+Lakizilisk Remnants
+Lakizilisk
+Mind Tyrant Energy
+Lanifect
+Cabalist
+Cleric
+Cleric Remnants
+Valkyrie
+Scantid (Desert)
+Kakaru (Twilight)
+Ursadon (Ice)
+Overmind Cocoon
+Power Generator
+Xel'Naga Temple
+Psi Disrupter
+Warp Gate
+Feedback Hit (Small)
+Feedback Hit (Medium)
+Feedback Hit (Large)
+Disruption Web
+White Circle
+Halo Rockets Trail
+Neutron Flare
+Neutron Flare Overlay (Unused)
+Optical Flare Grenade
+Halo Rockets
+Subterranean Spines Hit
+Subterranean Spines
+Corrosive Acid Shot
+Corrosive Acid Hit
+Maelstrom Hit
+Uraj
+Khalis
+Matador (Tank Mode)
+Starpad
+Matrix
+Iroleth
+Sundog
+Paladin
+Madrigal
+Savant (Entropy Gauntlets)
+Scrapyard
+Rotary
+Wyvern
+Oberon
+Zarcavrokor
+Gorgrokor
+Quarry
+Vespene Ridge
+Ghitorokor
+Aurora
+Panoptus
+Centaur
+Unused
+Centaur Missile
+Augur
+Vorval Pond
+Othstol Oviform
+Cestus
+Irulent Ivoa
+Othstoleth
+Ancestral Archives
+Irol Iris
+Sibraelosk
+Treasury
+Madrigal Missile 2
+Simulacrum
+Ancile
+Automaton Register
+Auxiliary Oasis
+Quantum Institute
+Astral Omen
+Pegasus
+Parthenon
+Nathrokor
+Empyrean
+Hippogriff
+Alkajelisk
+Keskathalor
+Star Sovereign
+Apostle
+Apostle Remnants
+Exemplar Torpedo
+Argosy
+Nanite Assembly
+Particle Accelerator
+Crucible
+Zobriolisk
+Gladius
+Magister
+Vassal
+Madcap
+Salamander
+Salamander Missile
+Gorgon
+Pegasus
+Phobos
+Penumbra
+Cyclops
+Phobos Missile
+Phobos Laser
+Salamander Missile 2
+Sanctum of Sorrow
+Last Orders Impact
+Ecclesiast
+Atreus
+Amaranth
+Geszkath Grotto
+Shaman (Support Mode)
+Kethraj Keep
+Idol
+Golem
+Salamander Missile Impact
+Barghest
+Synthetic Synod
+Pariah
+Talos
+Gladius Missile
+Gladius Missile Impact
+Bactalisk
+Cyclops Weapon Impact
+Maelstrom Missile
+Photon Cannon Missile Impact
+Kalkalisk
+Azazel
+Manifold
+Architect
+Vagrant
+Wendigo
+Southpaw
+Cyprian
+Harakan Remnants
+Burst Lasers (Silent)
+Bactalisk Remnants
+Alkajelisk Missile
+Alkajelisk Spore
+Terran Heavy Missile
+Optecton
+Madrigal Missile 1
+Kalkalisk Spore
+Recall Field (Shorter)
+Shock Cannon Explosion (Silent)
+Longbolt Missile (Silent)
+unused
+Architect Missile
+Burst Lasers Impact
+Burst Lasers Impact (Blue)
+unused
+Burst Lasers Impact (Red)
+Exemplar Torpedo Impact
+Planet Cracker Beam
+Planet Cracker Blast (Loop)
+Planet Cracker Blast
+Diadem
+Diadem Projectile
+Diadem Projectile Impact
+Keskathalor Weapon
+Keskathalor Weapon Impact
+Augur Death Explosion
+Burst Lasers (Explosive)
+Burst Lasers Impact (Damageless)
+Diadem Turret
+Herald
+Clarion
+Lobotomy Mine
+Seeker Spores (Silent)
+Zoryusthaleth
+Zorkiz Shroud
+Quazilisk
+Tethzorokor
+Almaksalisk
+Aion
+Rililisk
+Mason Death Explosion
+Mason Spark (Small)
+Ministry (Christmas)
+Infested Ministry (Christmas)
+Nexus (Christmas)
+Hatchery (Christmas)
+Caphrolosk (Christmas)
+Gathtelosk (Christmas)
+Mason (Christmas)
+Scribe (Christmas)
+Droleth (Christmas)
+Cikralisk
+Larvosk Cesiant
+Captaincy
+Iron Foundry
+Mineral Field 01 (Christmas)
+Mineral Field 02 (Christmas)
+Mineral Field 03 (Christmas)
+Vestry
+Heracles
+Pazuzu
+Astral Blaster Hit
+Hierophant
+Legionnaire
+Epigraph
+Blackjack
+Cohort
+Aspirant
+Aspirant Remnants
+Aspirant Criticality
+Akistrokor
+Konvilisk
+Konvilisk Remnants
+Claymore
+Scribe Remnants
+Tethvith Swamp
+Keskathalor Acid Pool
+Alaszileth
+Ion Field
+Reconstitution (Consumption)
+Irradiate New (Small)
+Irradiate New (Medium)
+Irradiate New (Large)
+Demiurge
+Siren
+Charlatan
+Canister Rifle Impact (Blue)
+Exemplar
+Arclite Shock Cannon Hit (Damageless)
+Neutron Flare hit (orange)
+Hallucination projectile
+Hallucination field
+Aspirant projectile
+Cyprian weapon impact
+Gauss Rifle hit (green)
+Canister Rifle Hit (green)
+Burst Lasers (blue, silent)
+Skithrokor
+Tosgrilisk
+Autocrat
+Olympian
+Guildhall
+Liiralisk
+Sovroleth
+Seeker Spores (Bounce)
+Burst Lasers (Bounce)
+Striga
+Luminary
+Axitrilisk
+Axitrilisk Remnants
+Anticthon
+Anthelion
+Tinkerer's Tower
+Biotic Base
+Prostration Stage
+Rogue Gallery
+Strident Stratum
+Monument of Sin
+Empress
+Tarasque Spores
+Tarasque
+Explosion Medium
+Explosion Blue Medium
+Explosion Blue Small
+Mind Tyrant Death Explosion
+Explosion Reversed (Small)
+Explosion Reversed (Small, Blue)
+Explosion Reversed (Medium)
+Explosion Reversed (Medium, Blue)
+Zealot Death (Reversed)
+Neutron Flare (Orange, Damageless)
+Mind Control Hit (Small)
+Mind Control Hit (Medium)
+Mind Control Hit (Large)
+Axtoth Axis
+Ovileth Death (Reversed)
+Zerg Air Explosion Large Reversed
+Zerg Air Explosion Small Reversed
+Diadem Attack Glow
+Warp Anchor New
+Anthelion Teleport Depart
+Anthelion Teleport Arrive
+Arclite Shock Cannon (Damageless, Silent)
+Magnetar
+Izirokor
+Izirokor Projectile
+Izirokor Remains
+Entropy Gauntlets Overlay
+Cyclops Fragmentary Explosion
+Zerg Air Explosion (Large)
+Zerg Air Explosion (Small)
+Infested Overlay (Small)
+Infested Overlay (Medium)
+Infested Overlay (Large)
+Blackjack Remains
+Burst Lasers Impact (Blue, Damageless)
+Plague Field
+Gosvileth
+Artisan
+Future Station
+Keskathalor Spores
+Seeker Spores Double Silent
+Kagralisk
+Kagralisk Remnants
+Alkag Iteth
+Kagralisk Venom
+Neutron Flare Blue Damageless
+Evigrilisk
+Evigrilisk Remnants
+Sentinel (Base)
+Idol Weapon Hit
+Protathalor
+Vilgorokor
+Cikralisk
+Cuirass
+Cataphract
+Durendal
+Sevenstep
+Tetcaerokor
+Dilettante
+Dilettante Remains
+Hypnagogue
+Hypnagogue Remains
+Ambassador
+Silvertongue
+Thespian
+Apothecary
+Sequestered Icon
+Patriarch
+Pythean
+Vagrant Shade
+Plasma Shell Explosion
+Mason Remnants
+Zealot Death
+Ardent Authority
+Unitary Union
+Vulture Remains
+Quazilisk Remains
+Zealot Remains
+Cyclops Remains
+Goliath Remains
+Ecclesiast Remains
+Legionnaire Remains
+Cyprian Remains
+Shaman Remains
+Wraith Remains
+Zoryusthaleth Remains
+Mantle
+Iron Council
+Ramesses
+Servitor
+Positron
+Anti-Matter Missile Hit
+Sycophant
+Daniel's Mason
+Smoochie Boy
+Police Station
+Police Intern
+Ezigrisant
+Wellbore
+Police Deputy
+Cuirass (Trench Mode)
+Cuirass Stonewall Protocol Overlay
+Spirtith Cesiant
+Skortrith Cesiant
+Anchor Attack Overlay (Green)
+Anchor Attack Overlay (Blue)
+Terran Unit Rubble (Medium)
+Terran Unit Rubble (Small)
+Protoss Unit Rubble (Medium)
+Protoss Unit Rubble (Small)
+Zerg Unit Rubble (Medium)
+Zerg Unit Rubble (Small)
+Zerg Unit Rubble (Tiny)
+Engram
+Hammerfall Beacon
+Zarcavrokor Bone
+Cyprian Rail
+Sevenstep Rail
+Bactalisk Acid
+Ocsal Larva
+Burst Lasers Impact Red Damageless
+Burst Lasers Red Small
+Burst Lasers Red
+Phalanx Mortar
+Matador (Cinder Mode)
+Matador Turret (Tank Mode)
+Matador Turret (Cinder Mode)
+Wyvern Turret
+Analogue
+Mortothrokor
+Mortothrokor Remnants
+Shaman (Visionary Mode)
+Terran Cancel Structure
+Vilgoleth
+Madrigal Turret (Imperioso)
+Madrigal (Furia Mode)
+Madrigal Turret (Furia)
+Philoc
+Quazilisk Attack Overlay
+Cyclops Fragmentary Shells Overlay
+Sevenstep Rail
+Quazilisk (April Fools)
+Omnivale
+Lodestone
+Ocsal Cesiant
+Potentate
+Skortrith Cesiant Tentacle
+Cyclops Weapon Impact
+Sentinel Rail
+Lanifect Remains
+Hotshot
+Vornath Pond
+Skithrok Scab
+Qilin
+Auriel
+Legionnaire Teleport Effect
+Spoke Shell
+Adherent
+Extatus
+Nathrelisk
+Unused
+Anchor (Grounded)
+Carapace Swarm (Small)
+Fusion Cutter Hit Damageless
+Chokralgant Chaszal
+Algoztalisk
+Okrimnilisk
+Cherbrathalor
+Sevenstep Mind Matter Overlay
+Grand Library
+Magister Weapon Impact
+Olympian Dishonorable Discharge 1
+Olympian Dishonorable Discharge 2
+Olympian Dishonorable Discharge 3
+Magnetar Law of Attraction 1
+Magnetar Law of Attraction 2
+Magnetar Law of Attraction 3
+Positron Projectile
+Binding Plasma Overlay
+Sasyrvoleth
+Through The Looking Glass Cast
+Ancile Remains
+Trojan Remains
+Envoy Remains
+Ovileth Remains
+Phalanx (Tank) Remains
+Phalanx (Siege) Remains
+Hierophant Remains
+Angeltear Rockets
+Angeltear Rockets Trail
+Ackmed
+Simulacrum Remains
+Vassal Remains
+Nathrokor Remains
+Venom (White)
+Skithrokor Spore
+Spores Overlay Orange
+Spores Overlay Orange Small
+Spores Overlay Yellow
+Seeker Spores Hit Orange
+Seeker Spores Hit Orange Small
+Seeker Sporse Hit Yellow
+Photon Blasters White
+Photon Blasters Green
+Vorvrokor Remains
+Liiralisk Glave
+Seeker Spores Hit Green Small
+Manifold Remains
+Golem Remains
+Idol Remains
+Artisan Remains
+Witness Remains
+Savant Remains
+Evigrilisk Tentacle
+Cyclops (Futurist Federation)
+Zealot (Starbound)
+Ecclesiast (Khalendric Knights)
+Vibrance
+Blackjack (Damaged)
+Phase Disruptor Large
+Harakan (Golden)
+Iziralisk
+Iziralisk Remains
+Cicatus
+White Circle (Instant)
+Gorgrokor Remains
+Kazitrith Cesiant
+Cleric (Futurist)
+Piety Ward
+Sieve
+Cedent
+Eskigant
+Oscilliant
+Madrigal Furia Remains
+Renesair
+Renesair Remains
+Unar
+Unar Orbital
+Ashguard
+Xenolith
+Savant (Power Siphon)
+Landlock
+Quazrokor
+Dracadin (Order)
+Dracadin Remains (Order)
+Blackjack (Golden)
+Blackjack (Golden) Damaged
+Tiangou (Base)
+Tiangou (Turret)
+Eidolon (Nydus)
+Maverick (Futurist)
+Hydralisk (Orkoti)
+Tencendur
+Tencendur Attack Overlay (Orange)
+Tencendur Attack Overlay (Blue)
+Tencendur Attack Overlay (Green)
+Hydralisk Remains (Orkoti)
+Inzorthrokor
+Inzorthrokor Remains
+Manifold (Starbound)
+Yblyleth
+Corrosive Touch Explosion Medium
+Terran Heavy Missile Aion
+Pilgrim
+Francisco Goska
+Stroluum
+Askosi Structure Rubble (Large)
+Pilgrim
+Corrosive Touch Explosion Small
+Askosi Structure Rubble (Small)
+Large Protoss Laser
+Vorvrokor
+Bactalisk
+Blackguard
+Arhaun Base
+Arhaun Turret
+Morningstar Radiation Field
+Zozarc Gorge
+Autocort
+Ogun (Worker Mode)
+Ogun (Smithy Mode)
+Cannibal
+Agrileth
+Agrileth Remains
+Arch
+Chantry
+Function
+Radix
+Cardinal
+Cardinal Remains
+Vicar
+Vicar Remains
+Missionary
+Missionary Remains
+Power Siphon (Small)
+Power Siphon (Medium)
+Power Siphon (Large)
+Emissary
+Inkblot
+Vulture (Hecaton)
+Tartarus Mine (Hecaton)
+Madrigal (Hecaton, Imperioso)
+Madrigal Turret (Hecaton, Imperioso)
+Madrigal (Hecaton, Furia)
+Madrigal Turret (Hecaton, Furia)
+Rove
+Burst Lasers Green Impact
+Burst Lasers Cyan Impact
+Kethrostalor
+Dyad
+Cipher
+Gauntlet
+Cosmoscope
+Helion
+Tirade
+Scepter
+Azanthrokor
+Bounty
+Proselyte
+Triton
+Triton Turret
+Mineral Field (Rich) 01
+Mineral Field (Rich) 02
+Mineral Field (Rich) 03
+Mineral Chunk (Rich) 01
+Mineral Chunk (Rich) 02
+Proselyte Remains
+Askosi Structure Rubble (Tiny)
+Sovrokor
+Valkyrie (Hecaton)
+Garvrokor
+Simulacrum (Astral)
+Herald Glow
+Maverick Remains (Futurist)
+Grandstand (Cannon)
+Grandstand (Holdout)
+Grandstand (Vision)
+Mimic
+Intendent
+Object
+Abutment
+Proscenium
+Quadriga
+Landlock (Christmas)
+Serathiel
+Divine Discipline Field
+Intendent Electricity
+Askosi Construction (Large)
+Askosi Construction (Medium)
+Askosi Construction (Small)
+Ogroszaleth
+Malkothrokor
+Malkothrokor Remnants
+Aphorist
+Thaumalogue
+Avatar
+Doronin
+Zylode
+Agonist
+Petract
+Phontis
+Zonguard
+Astrolabe
+Akreno
+Iconoclast
+Crematorium
+Paraclete
+Zethalor
+Scrylyleth
+Thaumalogue Remains
+Zethalor Remains
+Conduit
+Bestiary
+Eyelet
+Obelisk
+Auxine
+Constituent
+Missionary Weaponhit
+Maverick (Upstart)
+Maverick (Upstart) Remains
+Vulture (Upstart)
+Goremast
+Morrigan
+Cutlass
+Cutlass Turret
+Broadside
+Broadside Turret
+Ecclesiast (Astral Omen)
+Dorminge
+Domain
+Panoply
+Lotiro
+Pathlight
+Ferrum
+Chalyb
+Circitor
+Exigo
+Athla
+Vicere
+Machinamentum
+Big Infested Kerrigan
+Lekrot
+Hearthshard
+Insurant
+Silversoul
+Ghostwrit
+Azjoran
+Elgird
+Histrion
+Egocent
+Alacyne
+Begolor
+Limire
+Endbore
+Tortare
+Cybrene
+Silversoul Remains
+Raynor Vulture
+Scralia
+Endbore Electricity
+Civilian Remnants
+Pilgrim Remnants
+Rozirokor
+Rozirokor Remains
+Zytryleth
+Camazotz
+Grimoire
+Bloodsummon Rubble Small
+Bloodsummon Rubble Large
+Bloodsummon Unit Rubble Tiny
+Bloodsummon Unit Rubble Small
+Bloodsummon Unit Rubble Medium
+Atreus Remains
+Simulacrum (Khalendric)
+Idol (Khalendric)
+Idol (Khalendric) Remains
+Thrombocyte
+Vestige (Starbound)
+Arquebus (Hecaton)
+Acqui
+Alzurokor (Imicren)
+Hydrokor (Goszirith)
+Alzurokor Remains
+Hydrokor Remains
+Nihilist
+Sovrokor Remains
+Eidolon (Nydus) Remains
+Morrigan Remains
+Maverick (Golden)
+Maverick (Golden) Remains
+Gladius (Order)
+Shaman (Upstart, Support)
+Shaman (Upstart, Adrenaline)
+Ammo Crate
+Medkit
+Battery Cell
+Flamethrower (Blue)
+Okrimnilisk Spore
+Spore Hit (White)
+Spore Trail (White)
+Raynor (Maverick)
+Raynor (Maverick) Remains
+Cyprian (Hecaton)
+Memphis (Tank Mode)
+Memphis (Flak Mode)
+Memphis Turret (Tank Mode)
+Memphis Turret (Flak Mode)
+Fragmentary Shells (with damage)
+Floor Flame Trap
+Cikralisk Attack Overlay
+Striga Attack Overlay
+Pariah Attack Overlay
+Zethalisk
+Zethalisk Remains
+Athuzelon
+Athuzelon Glow
+Ifrit (Tank Mode)
+Ifrit Turret (Tank Mode)
+Ifrit (Siege Mode)
+Ifrit Turret (Siege Mode)
+Tirade (Deployed)
+Magian
+Scepter Laser
+Burst Lasers Yellow Small
+Burst Lasers Impact Yellow
+Burst Lasers Yellow
+Extended Sprite #708
+Extended Sprite #709
+Extended Sprite #710
+Extended Sprite #711
+Extended Sprite #712
+Extended Sprite #713
+Extended Sprite #714
+Extended Sprite #715
+Extended Sprite #716
+Extended Sprite #717
+Extended Sprite #718
+Extended Sprite #719
+Extended Sprite #720
+Extended Sprite #721
+Extended Sprite #722
+Extended Sprite #723
+Extended Sprite #724
+Extended Sprite #725
+Extended Sprite #726
+Extended Sprite #727
+Extended Sprite #728
+Extended Sprite #729
+Extended Sprite #730
+Extended Sprite #731
+Extended Sprite #732
+Extended Sprite #733
+Extended Sprite #734
+Extended Sprite #735
+Extended Sprite #736
+Extended Sprite #737
+Extended Sprite #738
+Extended Sprite #739
+Extended Sprite #740
+Extended Sprite #741
+Extended Sprite #742
+Extended Sprite #743
+Extended Sprite #744
+Extended Sprite #745
+Extended Sprite #746
+Extended Sprite #747
+Extended Sprite #748
+Extended Sprite #749
+Extended Sprite #750
+Extended Sprite #751
+Extended Sprite #752
+Extended Sprite #753
+Extended Sprite #754
+Extended Sprite #755
+Extended Sprite #756
+Extended Sprite #757
+Extended Sprite #758
+Extended Sprite #759
+Extended Sprite #760
+Extended Sprite #761
+Extended Sprite #762
+Extended Sprite #763
+Extended Sprite #764
+Extended Sprite #765
+Extended Sprite #766
+Extended Sprite #767
+Extended Sprite #768
+Extended Sprite #769
+Extended Sprite #770
+Extended Sprite #771
+Extended Sprite #772
+Extended Sprite #773
+Extended Sprite #774
+Extended Sprite #775
+Extended Sprite #776
+Extended Sprite #777
+Extended Sprite #778
+Extended Sprite #779
+Extended Sprite #780
+Extended Sprite #781
+Extended Sprite #782
+Extended Sprite #783
+Extended Sprite #784
+Extended Sprite #785
+Extended Sprite #786
+Extended Sprite #787
+Extended Sprite #788
+Extended Sprite #789
+Extended Sprite #790
+Extended Sprite #791
+Extended Sprite #792
+Extended Sprite #793
+Extended Sprite #794
+Extended Sprite #795
+Extended Sprite #796
+Extended Sprite #797
+Extended Sprite #798
+Extended Sprite #799
+Extended Sprite #800
+Extended Sprite #801
+Extended Sprite #802
+Extended Sprite #803
+Extended Sprite #804
+Extended Sprite #805
+Extended Sprite #806
+Extended Sprite #807
+Extended Sprite #808
+Extended Sprite #809
+Extended Sprite #810
+Extended Sprite #811
+Extended Sprite #812
+Extended Sprite #813
+Extended Sprite #814
+Extended Sprite #815
+Extended Sprite #816
+Extended Sprite #817
+Extended Sprite #818
+Extended Sprite #819
+Extended Sprite #820
+Extended Sprite #821
+Extended Sprite #822
+Extended Sprite #823
+Extended Sprite #824
+Extended Sprite #825
+Extended Sprite #826
+Extended Sprite #827
+Extended Sprite #828
+Extended Sprite #829
+Extended Sprite #830
+Extended Sprite #831
+Extended Sprite #832
+Extended Sprite #833
+Extended Sprite #834
+Extended Sprite #835
+Extended Sprite #836
+Extended Sprite #837
+Extended Sprite #838
+Extended Sprite #839
+Extended Sprite #840
+Extended Sprite #841
+Extended Sprite #842
+Extended Sprite #843
+Extended Sprite #844
+Extended Sprite #845
+Extended Sprite #846
+Extended Sprite #847
+Extended Sprite #848
+Extended Sprite #849
+Extended Sprite #850
+Extended Sprite #851
+Extended Sprite #852
+Extended Sprite #853
+Extended Sprite #854
+Extended Sprite #855
+Extended Sprite #856
+Extended Sprite #857
+Extended Sprite #858
+Extended Sprite #859
+Extended Sprite #860
+Extended Sprite #861
+Extended Sprite #862
+Extended Sprite #863
+Extended Sprite #864
+Extended Sprite #865
+Extended Sprite #866
+Extended Sprite #867
+Extended Sprite #868
+Extended Sprite #869
+Extended Sprite #870
+Extended Sprite #871
+Extended Sprite #872
+Extended Sprite #873
+Extended Sprite #874
+Extended Sprite #875
+Extended Sprite #876
+Extended Sprite #877
+Extended Sprite #878
+Extended Sprite #879
+Extended Sprite #880
+Extended Sprite #881
+Extended Sprite #882
+Extended Sprite #883
+Extended Sprite #884
+Extended Sprite #885
+Extended Sprite #886
+Extended Sprite #887
+Extended Sprite #888
+Extended Sprite #889
+Extended Sprite #890
+Extended Sprite #891
+Extended Sprite #892
+Extended Sprite #893
+Extended Sprite #894
+Extended Sprite #895
+Extended Sprite #896
+Extended Sprite #897
+Extended Sprite #898
+Extended Sprite #899
+Extended Sprite #900
+Extended Sprite #901
+Extended Sprite #902
+Extended Sprite #903
+Extended Sprite #904
+Extended Sprite #905
+Extended Sprite #906
+Extended Sprite #907
+Extended Sprite #908
+Extended Sprite #909
+Extended Sprite #910
+Extended Sprite #911
+Extended Sprite #912
+Extended Sprite #913
+Extended Sprite #914
+Extended Sprite #915
+Extended Sprite #916
+Extended Sprite #917
+Extended Sprite #918
+Extended Sprite #919
+Extended Sprite #920
+Extended Sprite #921
+Extended Sprite #922
+Extended Sprite #923
+Extended Sprite #924
+Extended Sprite #925
+Extended Sprite #926
+Extended Sprite #927
+Extended Sprite #928
+Extended Sprite #929
+Extended Sprite #930
+Extended Sprite #931
+Extended Sprite #932
+Extended Sprite #933
+Extended Sprite #934
+Extended Sprite #935
+Extended Sprite #936
+Extended Sprite #937
+Extended Sprite #938
+Extended Sprite #939
+Extended Sprite #940
+Extended Sprite #941
+Extended Sprite #942
+Extended Sprite #943
+Extended Sprite #944
+Extended Sprite #945
+Extended Sprite #946
+Extended Sprite #947
+Extended Sprite #948
+Extended Sprite #949
+Extended Sprite #950
+Extended Sprite #951
+Extended Sprite #952
+Extended Sprite #953
+Extended Sprite #954
+Extended Sprite #955
+Extended Sprite #956
+Extended Sprite #957
+Extended Sprite #958
+Extended Sprite #959
+Extended Sprite #960
+Extended Sprite #961
+Extended Sprite #962
+Extended Sprite #963
+Extended Sprite #964
+Extended Sprite #965
+Extended Sprite #966
+Extended Sprite #967
+Extended Sprite #968
+Extended Sprite #969
+Extended Sprite #970
+Extended Sprite #971
+Extended Sprite #972
+Extended Sprite #973
+Extended Sprite #974
+Extended Sprite #975
+Extended Sprite #976
+Extended Sprite #977
+Extended Sprite #978
+Extended Sprite #979
+Extended Sprite #980
+Extended Sprite #981
+Extended Sprite #982
+Extended Sprite #983
+Extended Sprite #984
+Extended Sprite #985
+Extended Sprite #986
+Extended Sprite #987
+Extended Sprite #988
+Extended Sprite #989
+Extended Sprite #990
+Extended Sprite #991
+Extended Sprite #992
+Extended Sprite #993
+Extended Sprite #994
+Extended Sprite #995
+Extended Sprite #996
+Extended Sprite #997
+Extended Sprite #998
+Extended Sprite #999
+Extended Sprite #1000
+Extended Sprite #1001
+Extended Sprite #1002
+Extended Sprite #1003
+Extended Sprite #1004
+Extended Sprite #1005
+Extended Sprite #1006
+Extended Sprite #1007
+Extended Sprite #1008
+Extended Sprite #1009
+Extended Sprite #1010
+Extended Sprite #1011
+Extended Sprite #1012
+Extended Sprite #1013
+Extended Sprite #1014
+Extended Sprite #1015
+Extended Sprite #1016
+Extended Sprite #1017
+Extended Sprite #1018
+Extended Sprite #1019
+Extended Sprite #1020
+Extended Sprite #1021
+Extended Sprite #1022
+Extended Sprite #1023
+Extended Sprite #1024
+Extended Sprite #1025
+Extended Sprite #1026
+Extended Sprite #1027
+Extended Sprite #1028
+Extended Sprite #1029
+Extended Sprite #1030
+Extended Sprite #1031
+Extended Sprite #1032
+Extended Sprite #1033
+Extended Sprite #1034
+Extended Sprite #1035
+Extended Sprite #1036
+Extended Sprite #1037
+Extended Sprite #1038
+Extended Sprite #1039
+Extended Sprite #1040
+Extended Sprite #1041
+Extended Sprite #1042
+Extended Sprite #1043
+Extended Sprite #1044
+Extended Sprite #1045
+Extended Sprite #1046
+Extended Sprite #1047
+Extended Sprite #1048
+Extended Sprite #1049
+Extended Sprite #1050
+Extended Sprite #1051
+Extended Sprite #1052
+Extended Sprite #1053
+Extended Sprite #1054
+Extended Sprite #1055
+Extended Sprite #1056
+Extended Sprite #1057
+Extended Sprite #1058
+Extended Sprite #1059
+Extended Sprite #1060
+Extended Sprite #1061
+Extended Sprite #1062
+Extended Sprite #1063
+Extended Sprite #1064
+Extended Sprite #1065
+Extended Sprite #1066
+Extended Sprite #1067
+Extended Sprite #1068
+Extended Sprite #1069
+Extended Sprite #1070
+Extended Sprite #1071
+Extended Sprite #1072
+Extended Sprite #1073
+Extended Sprite #1074
+Extended Sprite #1075
+Extended Sprite #1076
+Extended Sprite #1077
+Extended Sprite #1078
+Extended Sprite #1079
+Extended Sprite #1080
+Extended Sprite #1081
+Extended Sprite #1082
+Extended Sprite #1083
+Extended Sprite #1084
+Extended Sprite #1085
+Extended Sprite #1086
+Extended Sprite #1087
+Extended Sprite #1088
+Extended Sprite #1089
+Extended Sprite #1090
+Extended Sprite #1091
+Extended Sprite #1092
+Extended Sprite #1093
+Extended Sprite #1094
+Extended Sprite #1095
+Extended Sprite #1096
+Extended Sprite #1097
+Extended Sprite #1098
+Extended Sprite #1099
+Extended Sprite #1100
+Extended Sprite #1101
+Extended Sprite #1102
+Extended Sprite #1103
+Extended Sprite #1104
+Extended Sprite #1105
+Extended Sprite #1106
+Extended Sprite #1107
+Extended Sprite #1108
+Extended Sprite #1109
+Extended Sprite #1110
+Extended Sprite #1111
+Extended Sprite #1112
+Extended Sprite #1113
+Extended Sprite #1114
+Extended Sprite #1115
+Extended Sprite #1116
+Extended Sprite #1117
+Extended Sprite #1118
+Extended Sprite #1119
+Extended Sprite #1120
+Extended Sprite #1121
+Extended Sprite #1122
+Extended Sprite #1123
+Extended Sprite #1124
+Extended Sprite #1125
+Extended Sprite #1126
+Extended Sprite #1127
+Extended Sprite #1128
+Extended Sprite #1129
+Extended Sprite #1130
+Extended Sprite #1131
+Extended Sprite #1132
+Extended Sprite #1133
+Extended Sprite #1134
+Extended Sprite #1135
+Extended Sprite #1136
+Extended Sprite #1137
+Extended Sprite #1138
+Extended Sprite #1139
+Extended Sprite #1140
+Extended Sprite #1141
+Extended Sprite #1142
+Extended Sprite #1143
+Extended Sprite #1144
+Extended Sprite #1145
+Extended Sprite #1146
+Extended Sprite #1147
+Extended Sprite #1148
+Extended Sprite #1149
+Extended Sprite #1150
+Extended Sprite #1151
+Extended Sprite #1152
+Extended Sprite #1153
+Extended Sprite #1154
+Extended Sprite #1155
+Extended Sprite #1156
+Extended Sprite #1157
+Extended Sprite #1158
+Extended Sprite #1159
+Extended Sprite #1160
+Extended Sprite #1161
+Extended Sprite #1162
+Extended Sprite #1163
+Extended Sprite #1164
+Extended Sprite #1165
+Extended Sprite #1166
+Extended Sprite #1167
+Extended Sprite #1168
+Extended Sprite #1169
+Extended Sprite #1170
+Extended Sprite #1171
+Extended Sprite #1172
+Extended Sprite #1173
+Extended Sprite #1174
+Extended Sprite #1175
+Extended Sprite #1176
+Extended Sprite #1177
+Extended Sprite #1178
+Extended Sprite #1179
+Extended Sprite #1180
+Extended Sprite #1181
+Extended Sprite #1182
+Extended Sprite #1183
+Extended Sprite #1184
+Extended Sprite #1185
+Extended Sprite #1186
+Extended Sprite #1187
+Extended Sprite #1188
+Extended Sprite #1189
+Extended Sprite #1190
+Extended Sprite #1191
+Extended Sprite #1192
+Extended Sprite #1193
+Extended Sprite #1194
+Extended Sprite #1195
+Extended Sprite #1196
+Extended Sprite #1197
+Extended Sprite #1198
+Extended Sprite #1199
+Extended Sprite #1200
+Extended Sprite #1201
+Extended Sprite #1202
+Extended Sprite #1203
+Extended Sprite #1204
+Extended Sprite #1205
+Extended Sprite #1206
+Extended Sprite #1207
+Extended Sprite #1208
+Extended Sprite #1209
+Extended Sprite #1210
+Extended Sprite #1211
+Extended Sprite #1212
+Extended Sprite #1213
+Extended Sprite #1214
+Extended Sprite #1215
+Extended Sprite #1216
+Extended Sprite #1217
+Extended Sprite #1218
+Extended Sprite #1219
+Extended Sprite #1220
+Extended Sprite #1221
+Extended Sprite #1222
+Extended Sprite #1223
+Extended Sprite #1224
+Extended Sprite #1225
+Extended Sprite #1226
+Extended Sprite #1227
+Extended Sprite #1228
+Extended Sprite #1229
+Extended Sprite #1230
+Extended Sprite #1231
+Extended Sprite #1232
+Extended Sprite #1233
+Extended Sprite #1234
+Extended Sprite #1235
+Extended Sprite #1236
+Extended Sprite #1237
+Extended Sprite #1238
+Extended Sprite #1239
+Extended Sprite #1240
+Extended Sprite #1241
+Extended Sprite #1242
+Extended Sprite #1243
+Extended Sprite #1244
+Extended Sprite #1245
+Extended Sprite #1246
+Extended Sprite #1247
+Extended Sprite #1248
+Extended Sprite #1249
+Extended Sprite #1250
+Extended Sprite #1251
+Extended Sprite #1252
+Extended Sprite #1253
+Extended Sprite #1254
+Extended Sprite #1255
+Extended Sprite #1256
+Extended Sprite #1257
+Extended Sprite #1258
+Extended Sprite #1259
+Extended Sprite #1260
+Extended Sprite #1261
+Extended Sprite #1262
+Extended Sprite #1263
+Extended Sprite #1264
+Extended Sprite #1265
+Extended Sprite #1266
+Extended Sprite #1267
+Extended Sprite #1268
+Extended Sprite #1269
+Extended Sprite #1270
+Extended Sprite #1271
+Extended Sprite #1272
+Extended Sprite #1273
+Extended Sprite #1274
+Extended Sprite #1275
+Extended Sprite #1276
+Extended Sprite #1277
+Extended Sprite #1278
+Extended Sprite #1279
+Extended Sprite #1280
+Extended Sprite #1281
+Extended Sprite #1282
+Extended Sprite #1283
+Extended Sprite #1284
+Extended Sprite #1285
+Extended Sprite #1286
+Extended Sprite #1287
+Extended Sprite #1288
+Extended Sprite #1289
+Extended Sprite #1290
+Extended Sprite #1291
+Extended Sprite #1292
+Extended Sprite #1293
+Extended Sprite #1294
+Extended Sprite #1295
+Extended Sprite #1296
+Extended Sprite #1297
+Extended Sprite #1298
+Extended Sprite #1299
+Extended Sprite #1300
+Extended Sprite #1301
+Extended Sprite #1302
+Extended Sprite #1303
+Extended Sprite #1304
+Extended Sprite #1305
+Extended Sprite #1306
+Extended Sprite #1307
+Extended Sprite #1308
+Extended Sprite #1309
+Extended Sprite #1310
+Extended Sprite #1311
+Extended Sprite #1312
+Extended Sprite #1313
+Extended Sprite #1314
+Extended Sprite #1315
+Extended Sprite #1316
+Extended Sprite #1317
+Extended Sprite #1318
+Extended Sprite #1319
+Extended Sprite #1320
+Extended Sprite #1321
+Extended Sprite #1322
+Extended Sprite #1323
+Extended Sprite #1324
+Extended Sprite #1325
+Extended Sprite #1326
+Extended Sprite #1327
+Extended Sprite #1328
+Extended Sprite #1329
+Extended Sprite #1330
+Extended Sprite #1331
+Extended Sprite #1332
+Extended Sprite #1333
+Extended Sprite #1334
+Extended Sprite #1335
+Extended Sprite #1336
+Extended Sprite #1337
+Extended Sprite #1338
+Extended Sprite #1339
+Extended Sprite #1340
+Extended Sprite #1341
+Extended Sprite #1342
+Extended Sprite #1343
+Extended Sprite #1344
+Extended Sprite #1345
+Extended Sprite #1346
+Extended Sprite #1347
+Extended Sprite #1348
+Extended Sprite #1349
+Extended Sprite #1350
+Extended Sprite #1351
+Extended Sprite #1352
+Extended Sprite #1353
+Extended Sprite #1354
+Extended Sprite #1355
+Extended Sprite #1356
+Extended Sprite #1357
+Extended Sprite #1358
+Extended Sprite #1359
+Extended Sprite #1360
+Extended Sprite #1361
+Extended Sprite #1362
+Extended Sprite #1363
+Extended Sprite #1364
+Extended Sprite #1365
+Extended Sprite #1366
+Extended Sprite #1367
+Extended Sprite #1368
+Extended Sprite #1369
+Extended Sprite #1370
+Extended Sprite #1371
+Extended Sprite #1372
+Extended Sprite #1373
+Extended Sprite #1374
+Extended Sprite #1375
+Extended Sprite #1376
+Extended Sprite #1377
+Extended Sprite #1378
+Extended Sprite #1379
+Extended Sprite #1380
+Extended Sprite #1381
+Extended Sprite #1382
+Extended Sprite #1383
+Extended Sprite #1384
+Extended Sprite #1385
+Extended Sprite #1386
+Extended Sprite #1387
+Extended Sprite #1388
+Extended Sprite #1389
+Extended Sprite #1390
+Extended Sprite #1391
+Extended Sprite #1392
+Extended Sprite #1393
+Extended Sprite #1394
+Extended Sprite #1395
+Extended Sprite #1396
+Extended Sprite #1397
+Extended Sprite #1398
+Extended Sprite #1399
+Extended Sprite #1400
+Extended Sprite #1401
+Extended Sprite #1402
+Extended Sprite #1403
+Extended Sprite #1404
+Extended Sprite #1405
+Extended Sprite #1406
+Extended Sprite #1407
+Extended Sprite #1408
+Extended Sprite #1409
+Extended Sprite #1410
+Extended Sprite #1411
+Extended Sprite #1412
+Extended Sprite #1413
+Extended Sprite #1414
+Extended Sprite #1415
+Extended Sprite #1416
+Extended Sprite #1417
+Extended Sprite #1418
+Extended Sprite #1419
+Extended Sprite #1420
+Extended Sprite #1421
+Extended Sprite #1422
+Extended Sprite #1423
+Extended Sprite #1424
+Extended Sprite #1425
+Extended Sprite #1426
+Extended Sprite #1427
+Extended Sprite #1428
+Extended Sprite #1429
+Extended Sprite #1430
+Extended Sprite #1431
+Extended Sprite #1432
+Extended Sprite #1433
+Extended Sprite #1434
+Extended Sprite #1435
+Extended Sprite #1436
+Extended Sprite #1437
+Extended Sprite #1438
+Extended Sprite #1439
+Extended Sprite #1440
+Extended Sprite #1441
+Extended Sprite #1442
+Extended Sprite #1443
+Extended Sprite #1444
+Extended Sprite #1445
+Extended Sprite #1446
+Extended Sprite #1447
+Extended Sprite #1448
+Extended Sprite #1449
+Extended Sprite #1450
+Extended Sprite #1451
+Extended Sprite #1452
+Extended Sprite #1453
+Extended Sprite #1454
+Extended Sprite #1455
+Extended Sprite #1456
+Extended Sprite #1457
+Extended Sprite #1458
+Extended Sprite #1459
+Extended Sprite #1460
+Extended Sprite #1461
+Extended Sprite #1462
+Extended Sprite #1463
+Extended Sprite #1464
+Extended Sprite #1465
+Extended Sprite #1466
+Extended Sprite #1467
+Extended Sprite #1468
+Extended Sprite #1469
+Extended Sprite #1470
+Extended Sprite #1471
+Extended Sprite #1472
+Extended Sprite #1473
+Extended Sprite #1474
+Extended Sprite #1475
+Extended Sprite #1476
+Extended Sprite #1477
+Extended Sprite #1478
+Extended Sprite #1479
+Extended Sprite #1480
+Extended Sprite #1481
+Extended Sprite #1482
+Extended Sprite #1483

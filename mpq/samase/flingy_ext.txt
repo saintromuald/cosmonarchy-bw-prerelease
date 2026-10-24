@@ -1,0 +1,2201 @@
+#####flingy_209
+###copy of skryling
+sprite_id: 517
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_210
+###copy of marine
+sprite_id: 235
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_211
+###Quarry
+sprite_id: 531
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_212
+###Vespene Ridge
+sprite_id: 532
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_213
+###Iroleth
+sprite_id: 520
+top_speed: 1404
+acceleration: 48
+halt_distance: 17067
+turn_radius: 20
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_214
+###Mutation Pit
+sprite_id: 521
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_215
+###Paladin
+sprite_id: 522
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_216
+###Madrigal
+sprite_id: 523
+top_speed: 1404
+acceleration: 100
+halt_distance: 5120
+turn_radius: 24
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_217
+###Savant
+sprite_id: 524
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_218
+###Salvo Yard
+sprite_id: 525
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_219
+###Munitions Bay
+sprite_id: 526
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_220
+###Drydock
+sprite_id: 527
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_221
+###Future Station
+sprite_id: 528
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_222
+###Gallery
+sprite_id: 529
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_223
+###Gorgrokor
+sprite_id: 530
+top_speed: 1707
+acceleration: 500
+halt_distance: 20000
+turn_radius: 30
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_224
+###Gorgrok Apiary
+sprite_id: 533
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_225
+###Aurora
+sprite_id: 534
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 24
+###
+#####flingy_226
+###Panoptus
+sprite_id: 535
+top_speed: 1280
+acceleration: 48
+halt_distance: 17067
+turn_radius: 18
+movement_type: 0
+iscript_mask: 24
+###
+#####flingy_227
+###Centaur
+sprite_id: 536
+top_speed: 960
+acceleration: 48
+halt_distance: 7585
+turn_radius: 12
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_228
+###Cuirass
+sprite_id: 537
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_229
+###Centaur-Paladin-missile
+sprite_id: 538
+top_speed: 7600
+acceleration: 220
+halt_distance: 17069
+turn_radius: 33
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_230
+###Madrigal-missile
+sprite_id: 345
+top_speed: 8533
+acceleration: 267
+halt_distance: 76800
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_231
+###Augur
+sprite_id: 539
+top_speed: 1280
+acceleration: 100
+halt_distance: 5120
+turn_radius: 40
+movement_type: 0
+iscript_mask: 20
+###
+#####flingy_232
+###Vorval Pond
+sprite_id: 540
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_233
+###Othstol Oviform
+sprite_id: 541
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_234
+###Quantum Institute
+sprite_id: 542
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_235
+###Alaszil Arbor
+sprite_id: 543
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_236
+###Othstoleth
+sprite_id: 544
+top_speed: 960
+acceleration: 22
+halt_distance: 17067
+turn_radius: 12
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_237
+###Grand Library
+sprite_id: 545
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_238
+###Irol Iris
+sprite_id: 546
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_239
+###Treasury
+sprite_id: 548
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_240
+###Sire
+sprite_id: 547
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_241
+###Simulacrum
+sprite_id: 550
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_242
+###Ancestral Effigy
+sprite_id: 551
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_243
+###Automaton Register
+sprite_id: 552
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_244
+###Strident Stratum
+sprite_id: 553
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_245
+###Stellar Icon
+sprite_id: 554
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_246
+###Astral Omen
+sprite_id: 555
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_247
+###Celestial Shrine
+sprite_id: 556
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_248
+###Cosmic Altar
+sprite_id: 557
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_249
+###Nathrokor
+sprite_id: 558
+top_speed: 1920
+acceleration: 214
+halt_distance: 20000
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_250
+###Empyrean
+sprite_id: 559
+top_speed: 853
+acceleration: 27
+halt_distance: 13474
+turn_radius: 20
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_251
+###Nathrok Lake
+sprite_id: 560
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_252
+###Ecclesiast
+sprite_id: 588
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_253
+###Atreus
+sprite_id: 589
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_254
+###Amaranth
+sprite_id: 590
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_255
+###BLANK
+sprite_id: 517
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_256
+###Empyrean-missile
+sprite_id: 335
+top_speed: 4266
+acceleration: 267
+halt_distance: 17069
+turn_radius: 13
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_257
+###Alkajelisk
+sprite_id: 561
+top_speed: 960
+acceleration: 48
+halt_distance: 14848
+turn_radius: 12
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_258
+###Keskathalor
+sprite_id: 562
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_259
+###Star Sovereign
+sprite_id: 563
+top_speed: 640
+acceleration: 27
+halt_distance: 7585
+turn_radius: 6
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_260
+###Apostle
+sprite_id: 564
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_261
+###Exemplar-missile
+sprite_id: 566
+top_speed: 8533
+acceleration: 667
+halt_distance: 17069
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_262
+###Argosy
+sprite_id: 567
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_263
+###Nanite Assembly
+sprite_id: 568
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_264
+###Particle Accelerator
+sprite_id: 569
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_265
+###Crucible
+sprite_id: 570
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_266
+###Principality
+sprite_id: 571
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_267
+###Gladius
+sprite_id: 572
+top_speed: 1280
+acceleration: 67
+halt_distance: 21745
+turn_radius: 24
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_268
+###Magister
+sprite_id: 573
+top_speed: 1280
+acceleration: 96
+halt_distance: 17067
+turn_radius: 18
+movement_type: 0
+iscript_mask: 24
+###
+#####flingy_269
+###Vassal
+sprite_id: 574
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_270
+###Madcap
+sprite_id: 575
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_271
+###Salamander
+sprite_id: 576
+top_speed: 1280
+acceleration: 48
+halt_distance: 7585
+turn_radius: 30
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_272
+###Salamander-missile
+sprite_id: 577
+top_speed: 17067
+acceleration: 850
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_273
+###Gorgon
+sprite_id: 578
+top_speed: 1440
+acceleration: 72
+halt_distance: 14848
+turn_radius: 26
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_274
+###Pegasus
+sprite_id: 579
+top_speed: 960
+acceleration: 48
+halt_distance: 7585
+turn_radius: 12
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_275
+###Phobos
+sprite_id: 580
+top_speed: 640
+acceleration: 27
+halt_distance: 7585
+turn_radius: 6
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_276
+###Penumbra
+sprite_id: 581
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 8
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_277
+###Cyclops
+sprite_id: 582
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_278
+###Phobos-missile
+sprite_id: 583
+top_speed: 17067
+acceleration: 267
+halt_distance: 17069
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_279
+###Phobos-laser
+sprite_id: 584
+top_speed: 8534
+acceleration: 8533
+halt_distance: 17068
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_280
+###Salamander-missile
+sprite_id: 585
+top_speed: 8534
+acceleration: 575
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_281
+###Sanctum of Sorrow
+sprite_id: 586
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_282
+###Keskath Grotto
+sprite_id: 591
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_283
+##Vithril Haunt
+sprite_id: 592
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_284
+###Alkaj Chasm
+sprite_id: 593
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_285
+###Idol
+sprite_id: 594
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_286
+###Golem
+sprite_id: 595
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_287
+###Barghest
+sprite_id: 597
+top_speed: 1707
+acceleration: 214
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_288
+###Robotics Authority
+sprite_id: 598
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_289
+###Pariah
+sprite_id: 599
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_290
+###Talos
+sprite_id: 600
+top_speed: 1480
+acceleration: 200
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_291
+###Gladius-weapon
+sprite_id: 601
+top_speed: 11378
+acceleration: 213
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_292
+###Bactalisk
+sprite_id: 603
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_293
+###Cyclops-weapon-impact
+sprite_id: 604
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_294
+###Maelstrom-weapon
+sprite_id: 605
+top_speed: 8533
+acceleration: 667
+halt_distance: 17069
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_295
+###Kalkalisk
+sprite_id: 607
+top_speed: 1440
+acceleration: 672
+halt_distance: 13616
+turn_radius: 30
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_296
+###Kalkath Bloom
+sprite_id: 608
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_297
+###Manifold
+sprite_id: 609
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_298
+###Architect
+sprite_id: 610
+top_speed: 640
+acceleration: 100
+halt_distance: 5120
+turn_radius: 12
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_299
+###Bactal Den
+sprite_id: 611
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_300
+###Burst Lasers Silent
+sprite_id: 616
+top_speed: 17067
+acceleration: 8533
+halt_distance: 17068
+turn_radius: 255
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_301
+###Alkajelisk-missile
+sprite_id: 618
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_302
+###Alkajelisk-spore
+sprite_id: 619
+top_speed: 4267
+acceleration: 167
+halt_distance: 54582
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_303
+###Pegasus-missile
+sprite_id: 620
+top_speed: 7600
+acceleration: 220
+halt_distance: 17069
+turn_radius: 33
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_304
+###Madrigal-missile-2
+sprite_id: 622
+top_speed: 8533
+acceleration: 267
+halt_distance: 136352
+turn_radius: 13
+movement_type: 1
+iscript_mask: 30
+###
+#####flingy_305
+###Kalkalisk-missile
+sprite_id: 623
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_306
+###Mushroom Silent
+sprite_id: 625
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_307
+###Longbolt Missile Silent
+sprite_id: 626
+top_speed: 8533
+acceleration: 334
+halt_distance: 136352
+turn_radius: 13
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_308
+###Architect-missile
+sprite_id: 628
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_309
+###Burst Lasers-impact
+sprite_id: 629
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_310
+###Burst Lasers Blue-impact
+sprite_id: 630
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_311
+###Burst Lasers Red-impact
+sprite_id: 632
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_312
+###Ion Cannon
+sprite_id: 637
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 2
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_313
+###Ion Cannon-weapon
+sprite_id: 638
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_314
+###Keskathalor-weapon
+sprite_id: 640
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_315
+###Burst Lasers-explosive
+sprite_id: 643
+top_speed: 17067
+acceleration: 8533
+halt_distance: 17068
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_316
+###Wraith-copy
+sprite_id: 646
+top_speed: 1707
+acceleration: 67
+halt_distance: 21745
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_317
+###Clarion
+sprite_id: 647
+top_speed: 853
+acceleration: 48
+halt_distance: 17067
+turn_radius: 30
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_318
+###Lobotomy Mine
+sprite_id: 648
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 127
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_319
+###Seeker Spores Silent
+sprite_id: 649
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_320
+###Zoryusthaleth
+sprite_id: 650
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 30
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_321
+###Zoryus Shroud
+sprite_id: 651
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_322
+###Quazilisk
+sprite_id: 652
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 30
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_323
+###Quazil Quay
+sprite_id: 653
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_324
+###Almaksalisk
+sprite_id: 654
+top_speed: 1440
+acceleration: 72
+halt_distance: 11000
+turn_radius: 30
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_325
+###Almak Antre
+sprite_id: 655
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_326
+###Broodlisk
+sprite_id: 656
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_327
+###SCV Spark-small
+sprite_id: 658
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_328
+###Command Center (Christmas)
+sprite_id: 659
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_329
+###Infested Command Center (Christmas)
+sprite_id: 660
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_330
+###Nexus (Christmas)
+sprite_id: 661
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_331
+###Hatchery (Christmas)
+sprite_id: 662
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_332
+###Lair (Christmas)
+sprite_id: 663
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_333
+###Hive (Christmas)
+sprite_id: 664
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_334
+###SCV (Christmas)
+sprite_id: 665
+top_speed: 1280
+acceleration: 67
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_335
+###Probe (Christmas)
+sprite_id: 666
+top_speed: 1280
+acceleration: 67
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 24
+###
+#####flingy_336
+###Drone (Christmas)
+sprite_id: 667
+top_speed: 1280
+acceleration: 67
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_337
+###Infested Terran (Christmas)
+sprite_id: 668
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_338
+###Larval Colony
+sprite_id: 669
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_339
+###Captaincy
+sprite_id: 670
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_340
+###Iron Foundry
+sprite_id: 671
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_341
+###Mineral Field 01 (Christmas)
+sprite_id: 672
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_342
+###Mineral Field 02 (Christmas)
+sprite_id: 673
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_343
+###Mineral Field 03 (Christmas)
+sprite_id: 674
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_344
+###Medbay
+sprite_id: 675
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_345
+###Heracles
+sprite_id: 676
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 30
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_346
+###Pazuzu
+sprite_id: 677
+top_speed: 1440
+acceleration: 100
+halt_distance: 5120
+turn_radius: 24
+movement_type: 0
+iscript_mask: 25
+###
+#####flingy_347
+###Astral Blaster-impact
+sprite_id: 678
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 2
+###
+#####flingy_348
+###Hierophant
+sprite_id: 679
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_349
+###Legionnaire
+sprite_id: 680
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_350
+###Scrapyard
+sprite_id: 681
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_351
+###Blackjack
+sprite_id: 682
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_352
+###Cohort
+sprite_id: 683
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_353
+###Aspirant
+sprite_id: 684
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_354
+###Aspirant-Criticality
+sprite_id: 686
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_355
+###Akistrokor
+sprite_id: 687
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_356
+###Konvilisk
+sprite_id: 688
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_357
+###Claymore
+sprite_id: 690
+top_speed: 960
+acceleration: 100
+halt_distance: 12227
+turn_radius: 20
+movement_type: 0
+iscript_mask: 25
+###
+#####flingy_358
+###Gorgral Swamp
+sprite_id: 692
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_359
+###Keskathalor-weapon-impact
+sprite_id: 693
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_360
+###Alaszileth
+sprite_id: 694
+top_speed: 960
+acceleration: 22
+halt_distance: 17067
+turn_radius: 12
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_361
+###Ion Cannon-weapon-impact
+sprite_id: 695
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_362
+###Irradiate-small
+sprite_id: 697
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_363
+###Irradiate-medium
+sprite_id: 698
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_364
+###Irradiate-large
+sprite_id: 699
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_365
+###Demiurge
+sprite_id: 700
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_366
+###Siren
+sprite_id: 701
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_367
+###Charlatan
+sprite_id: 702
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_368
+###Canister Rifle-impact-blue
+sprite_id: 703
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_369
+###Exemplar
+sprite_id: 704
+top_speed: 1280
+acceleration: 96
+halt_distance: 17067
+turn_radius: 18
+movement_type: 0
+iscript_mask: 24
+###
+#####flingy_370
+###Arclite Shock Cannon-impact-damageless
+sprite_id: 705
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_371
+###Neutron Flare-impact-orange
+sprite_id: 706
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_372
+###Hallucination-weapon
+sprite_id: 707
+top_speed: 17067
+acceleration: 850
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_373
+###Hallucination-field
+sprite_id: 708
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_374
+###Aspirant-weapon
+sprite_id: 709
+top_speed: 17067
+acceleration: 850
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_375
+###Cyprian-weapon-impact
+sprite_id: 710
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_376
+###Gauss Rifle-impact-green
+sprite_id: 711
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_377
+###Canister Rifle-impact-green
+sprite_id: 712
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_378
+###Burst Lasers-blue Silent
+sprite_id: 713
+top_speed: 17067
+acceleration: 8533
+halt_distance: 17068
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_379
+###Skithrokor
+sprite_id: 714
+top_speed: 1878
+acceleration: 214
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_380
+###Skithrok Scab
+sprite_id: 715
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_381
+###Autocrat
+sprite_id: 716
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_382
+###Olympian
+sprite_id: 717
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_383
+###Guildhall
+sprite_id: 718
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_384
+###Liiralisk
+sprite_id: 719
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_385
+###Sovroleth
+sprite_id: 720
+top_speed: 2133
+acceleration: 133
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_386
+###Seeker Spores-bounce
+sprite_id: 721
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_387
+###Burst Lasers-bounce
+sprite_id: 722
+top_speed: 17067
+acceleration: 8533
+halt_distance: 17068
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_388
+###Striga
+sprite_id: 723
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_389
+###Luminary
+sprite_id: 724
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_390
+###Axitrilisk
+sprite_id: 725
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_391
+###Anticthon
+sprite_id: 727
+top_speed: 569
+acceleration: 100
+halt_distance: 12227
+turn_radius: 24
+movement_type: 0
+iscript_mask: 25
+###
+#####flingy_392
+###Anthelion
+sprite_id: 728
+top_speed: 0
+acceleration: 0
+halt_distance: 7585
+turn_radius: 6
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_393
+###Tinkerer's Tower
+sprite_id: 729
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_394
+###Biotic Base
+sprite_id: 730
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_395 	
+###Prostration Stage
+sprite_id: 731
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_396
+###Rogue Gallery
+sprite_id: 732
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_397
+###Wayward Lure
+sprite_id: 733
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_398
+###Monument of Sin
+sprite_id: 734
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_399
+###Empress
+sprite_id: 735
+top_speed: 720
+acceleration: 48
+halt_distance: 7585
+turn_radius: 12
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_400
+###Tarasque-weapon2
+sprite_id: 736
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_401
+###Tarasque
+sprite_id: 737
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_402
+###Neutron Flare-orange-damageless
+sprite_id: 747
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_403
+###Orboth Omlia
+sprite_id: 751
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_404
+###Arclite Shock Cannon-impact-damageless Silent
+sprite_id: 759
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_405
+###Magnetar
+sprite_id: 760
+top_speed: 720
+acceleration: 48
+halt_distance: 7585
+turn_radius: 12
+movement_type: 0
+iscript_mask: 127
+###
+#####flingy_406
+###Izirokor
+sprite_id: 761
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_407
+###Izirokor-projectile
+sprite_id: 762
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_408
+###Fragmentary Explosion
+sprite_id: 765
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_409
+###Burst Lasers Blue-impact-damageless
+sprite_id: 772
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 0
+iscript_mask: 0
+###
+#####flingy_410
+###Gosvileth
+sprite_id: 774
+top_speed: 1480
+acceleration: 200
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_411
+###Artisan
+sprite_id: 775
+top_speed: 1480
+acceleration: 200
+halt_distance: 12227
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30
+###
+#####flingy_412
+###Spore Colony (copy)
+sprite_id: 776
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_413
+###Keskathalor Spores
+sprite_id: 777
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_414
+###Seeker Spores (Double Silent)
+sprite_id: 778
+top_speed: 8533
+acceleration: 667
+halt_distance: 54582
+turn_radius: 40
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_415
+###Kagralisk
+sprite_id: 779
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 40
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_416
+###Izkag Iteth
+sprite_id: 781
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_417
+###Kagralisk Venom
+sprite_id: 782
+top_speed: 8533
+acceleration: 850
+halt_distance: 171343
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_418
+###Neutron Flare Impact Silent
+sprite_id: 783
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 0
+###
+#####flingy_419
+###Evigrilisk
+sprite_id: 784
+top_speed: 1
+acceleration: 1
+halt_distance: 1
+turn_radius: 30
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_420
+###Sentinel Base
+sprite_id: 786
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_421
+###Unused
+sprite_id: 787
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_422
+###Unused
+sprite_id: 788
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_423
+###Idol Weapon Hit
+sprite_id: 787
+top_speed: 0
+acceleration: 0
+halt_distance: 0
+turn_radius: 0
+movement_type: 2
+iscript_mask: 127
+###
+#####flingy_424
+###Bunker New
+sprite_id: 517
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_425
+###Watchdog Base New
+sprite_id: 518
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_426
+###Photon Cannon Prismatic Cannon
+sprite_id: 713
+top_speed: 34134
+acceleration: 8553
+halt_distance: 34134
+turn_radius: 127
+movement_type: 1
+iscript_mask: 127
+###
+#####flingy_427
+###Photon Cannon New
+sprite_id: 788
+top_speed: 427
+acceleration: 33
+halt_distance: 2763
+turn_radius: 27
+movement_type: 1
+iscript_mask: 127
+###
+#####DUMMY
+###
+#####flingy_255
+###
+sprite_id: 517
+top_speed: 1707
+acceleration: 107
+halt_distance: 13616
+turn_radius: 40
+movement_type: 0
+iscript_mask: 30

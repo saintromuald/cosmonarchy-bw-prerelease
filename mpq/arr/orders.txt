@@ -1,0 +1,500 @@
+Die
+Stop
+Guard (Normal)
+Guard (Player)
+Guard (Subunit)
+Guard (Bunker)
+Ignore (Normal)
+Stop (Reaver)
+Attack
+Attack (Obscured)
+Attack Unit (Normal)
+Attack In Range
+Use Ability (Rematerialize)
+Use Ability (Rapid Rendezvous)
+Attack Move
+Building Is Being Infested
+Use Ability (Ashbind)
+Power-Up (Unused)
+Guard (Building)
+Attack (Building)
+Script (Spider Mine)
+Stay In Range
+Attack (Subunit)
+Nothing 2 (Normal)
+Nothing 3 (Unused)
+Drone Start Mutate
+Drone Mutate
+Use Ability (Infest 1)
+Use Ability (Preylock)
+Infest (Queen)
+Build (SCV)
+Build (Probe)
+Create Building (Probe)
+Is Building (SCV)
+Repair Unit (SCV)
+Repair Unit (Obscured)
+Place Add-On
+Build Add-On
+Train (Normal)
+Rally to Visible Unit
+Rally to Ground Tile
+Zerg Birth
+Unit Morph
+Building Morph
+Building Is Constructed (Terran)
+Zerg Build Self
+Build (Nydus Canal Exit)
+Enter (Nydus Canal)
+Building Is Constructed (Protoss)
+Follow
+Idle (Carrier)
+Move (Carrier&Reaver)
+Stop (Carrier)
+Attack (Carrier)
+Attack Obscured (Carrier)
+Ignore 2 (Carrier)
+Attack Unit (Carrier)
+Hold Position (Carrier)
+Idle (Reaver)
+Attack (Reaver)
+Attack Obscured (Reaver)
+Attack Unit (Reaver)
+Hold Position (Reaver)
+Training (Subunit)
+Move&Attack (Interceptor)
+Move&Attack (Scarab)
+Recharge Shields (Unit)
+Recharge Shields (Global)
+Shield Battery Is Recharging
+Return To Parent (Interceptor)
+Land (Drone)
+Land (Building)
+Lift Off (Building)
+Lift Off (Drone)
+Is Lifting Off
+Is Researching Technology
+Is Performing Upgrade
+Idle (Larva)
+Is Spawning Larva
+Move to Harvest
+Move to Harvest Obscured
+Move to Harvest Gas
+Can Enter Gas Mine
+Enter/Exit Gas Mine
+Return Gas
+Move to Harvest Minerals
+Can Harvest Minerals
+Harvesting Minerals
+Harvesting Minerals Interrupted
+Harvest 4 (Unknown)
+Return Minerals
+Harvesting Interrupted - Recharge Shields
+Move/Enter Transport
+Idle (Transport)
+Load Unit (Mobile Transport)
+Load Unit (Bunker)
+Load Unit (Unknown)
+Idle (Power-Up)
+Siege Mode
+Tank Mode
+Watch Target
+Script (Starting Creep Growth)
+Script (Spread Creep&Spawn Larva)
+Script (Stopping Creep Growth)
+Use Ability (Lobotomy Warhead)
+Move and Morph Archon
+Completing Archon Summon
+Hold Position (Normal)
+Hold Position (Queen)
+Cloak
+Decloak
+Unload Unit (Transport)
+Move&Unload Unit (Transport)
+Use Ability (Yamato Cannon)
+Use Ability Obscured (Yamato Cannon)
+Use Ability (Lobotomy Grenade)
+Burrow
+Idle (Burrowed)
+Unburrow
+Use Ability (Carapace Swarm)
+Use Ability (Parasite)
+Use Ability (Divine Discipline)
+Use Ability (Hijack)
+Unknown
+Idle (Nuclear Silo)
+Attack (Nuke)
+Move&Paint Nuke Target
+Attack Unit (Nuke)
+Attack Ground (Nuke)
+Nuke Track (Ghost)
+Script (Cloak Nearby Units)
+Cloak Nearby Units (Freezes the casting unit)
+Place Spider Mine
+Script (Right-Click Action)
+Attack Unit (Infested Terran)
+Attack Ground (Infested Terran)
+Hold Position (Suicide Units)
+Use Ability (Dimensional Recall)
+Teleport To Location (Freezes the casting unit)
+Use Ability (Remote Hijack)
+Idle (Scanner Sweep)
+Use Ability (Defensive Matrix)
+Use Ability (Psionic Storm)
+Use Ability (Irradiate)
+Use Ability (Plague)
+Use Ability (Consume)
+Use Ability (Rejoinder of Service)
+Use Ability (Stasis Field)
+Use Ability (Hallucination)
+Script (Hallucination)
+Reset Collision (2 Units)
+Reset Collision (Harvester&Mine)
+Patrol (Normal)
+CTF COP (Initialize)
+Blissful Embrace (Matraleth)
+Grief of All Gods (Star Sovereign)
+Script (Computer)
+Attack Move (Computer)
+Move (Harass)
+Patrol (Computer)
+Guard (Computer)
+Idle (Rescuable)
+Idle (Neutral)
+Return To Base (Computer)
+Script (PSI Provider)
+Fatal (Scarab)
+Idle (Critter)
+Idle (Trap)
+Open Door
+Close Door
+Stop (Trap)
+Attack (Trap)
+Enable Doodad
+Disable Doodad
+Warp In (Unused)
+Idle (Cleric)
+Use Ability (Heal)
+Move (Cleric)
+Hold Position & Heal (Cleric)
+Return To Idle After Heal (Cleric)
+Use Ability (Through the Looking Glass)
+Use Ability (Disruption Web)
+Use Ability (Tyranny)
+Dark Archon Meld
+Use Ability (Salvage)
+Use Ability (Aural Assault)
+Use Ability (Maelstrom)
+Move (Junk Yard Dog)
+Fatal
+Use Ability (Landfall)
+Extended Order #2
+Extended Order #3
+Extended Order #4
+Extended Order #5
+Extended Order #6
+Extended Order #7
+Extended Order #8
+Extended Order #9
+Extended Order #10
+Extended Order #11
+Extended Order #12
+Extended Order #13
+Extended Order #14
+Extended Order #15
+Extended Order #16
+Extended Order #17
+Extended Order #18
+Extended Order #19
+Extended Order #20
+Extended Order #21
+Extended Order #22
+Extended Order #23
+Extended Order #24
+Extended Order #25
+Extended Order #26
+Extended Order #27
+Extended Order #28
+Extended Order #29
+Extended Order #30
+Extended Order #31
+Extended Order #32
+Extended Order #33
+Extended Order #34
+Extended Order #35
+Extended Order #36
+Extended Order #37
+Extended Order #38
+Extended Order #39
+Extended Order #40
+Extended Order #41
+Extended Order #42
+Extended Order #43
+Extended Order #44
+Extended Order #45
+Extended Order #46
+Extended Order #47
+Extended Order #48
+Extended Order #49
+Extended Order #50
+Extended Order #51
+Extended Order #52
+Extended Order #53
+Extended Order #54
+Extended Order #55
+Extended Order #56
+Extended Order #57
+Extended Order #58
+Extended Order #59
+Extended Order #60
+Extended Order #61
+Extended Order #62
+Extended Order #63
+Extended Order #64
+Extended Order #65
+Extended Order #66
+Extended Order #67
+Extended Order #68
+Extended Order #69
+Extended Order #70
+Extended Order #71
+Extended Order #72
+Extended Order #73
+Extended Order #74
+Extended Order #75
+Extended Order #76
+Extended Order #77
+Extended Order #78
+Extended Order #79
+Extended Order #80
+Extended Order #81
+Extended Order #82
+Extended Order #83
+Extended Order #84
+Extended Order #85
+Extended Order #86
+Extended Order #87
+Extended Order #88
+Extended Order #89
+Extended Order #90
+Extended Order #91
+Extended Order #92
+Extended Order #93
+Extended Order #94
+Extended Order #95
+Extended Order #96
+Extended Order #97
+Extended Order #98
+Extended Order #99
+Extended Order #100
+Extended Order #101
+Extended Order #102
+Extended Order #103
+Extended Order #104
+Extended Order #105
+Extended Order #106
+Extended Order #107
+Extended Order #108
+Extended Order #109
+Extended Order #110
+Extended Order #111
+Extended Order #112
+Extended Order #113
+Extended Order #114
+Extended Order #115
+Extended Order #116
+Extended Order #117
+Extended Order #118
+Extended Order #119
+Extended Order #120
+Extended Order #121
+Extended Order #122
+Extended Order #123
+Extended Order #124
+Extended Order #125
+Extended Order #126
+Extended Order #127
+Extended Order #128
+Extended Order #129
+Extended Order #130
+Extended Order #131
+Extended Order #132
+Extended Order #133
+Extended Order #134
+Extended Order #135
+Extended Order #136
+Extended Order #137
+Extended Order #138
+Extended Order #139
+Extended Order #140
+Extended Order #141
+Extended Order #142
+Extended Order #143
+Extended Order #144
+Extended Order #145
+Extended Order #146
+Extended Order #147
+Extended Order #148
+Extended Order #149
+Extended Order #150
+Extended Order #151
+Extended Order #152
+Extended Order #153
+Extended Order #154
+Extended Order #155
+Extended Order #156
+Extended Order #157
+Extended Order #158
+Extended Order #159
+Extended Order #160
+Extended Order #161
+Extended Order #162
+Extended Order #163
+Extended Order #164
+Extended Order #165
+Extended Order #166
+Extended Order #167
+Extended Order #168
+Extended Order #169
+Extended Order #170
+Extended Order #171
+Extended Order #172
+Extended Order #173
+Extended Order #174
+Extended Order #175
+Extended Order #176
+Extended Order #177
+Extended Order #178
+Extended Order #179
+Extended Order #180
+Extended Order #181
+Extended Order #182
+Extended Order #183
+Extended Order #184
+Extended Order #185
+Extended Order #186
+Extended Order #187
+Extended Order #188
+Extended Order #189
+Extended Order #190
+Extended Order #191
+Extended Order #192
+Extended Order #193
+Extended Order #194
+Extended Order #195
+Extended Order #196
+Extended Order #197
+Extended Order #198
+Extended Order #199
+Extended Order #200
+Extended Order #201
+Extended Order #202
+Extended Order #203
+Extended Order #204
+Extended Order #205
+Extended Order #206
+Extended Order #207
+Extended Order #208
+Extended Order #209
+Extended Order #210
+Extended Order #211
+Extended Order #212
+Extended Order #213
+Extended Order #214
+Extended Order #215
+Extended Order #216
+Extended Order #217
+Extended Order #218
+Extended Order #219
+Extended Order #220
+Extended Order #221
+Extended Order #222
+Extended Order #223
+Extended Order #224
+Extended Order #225
+Extended Order #226
+Extended Order #227
+Extended Order #228
+Extended Order #229
+Extended Order #230
+Extended Order #231
+Extended Order #232
+Extended Order #233
+Extended Order #234
+Extended Order #235
+Extended Order #236
+Extended Order #237
+Extended Order #238
+Extended Order #239
+Extended Order #240
+Extended Order #241
+Extended Order #242
+Extended Order #243
+Extended Order #244
+Extended Order #245
+Extended Order #246
+Extended Order #247
+Extended Order #248
+Extended Order #249
+Extended Order #250
+Extended Order #251
+Extended Order #252
+Extended Order #253
+Extended Order #254
+Extended Order #255
+Extended Order #256
+Extended Order #257
+Extended Order #258
+Extended Order #259
+Extended Order #260
+Extended Order #261
+Extended Order #262
+Extended Order #263
+Extended Order #264
+Extended Order #265
+Extended Order #266
+Extended Order #267
+Extended Order #268
+Extended Order #269
+Extended Order #270
+Extended Order #271
+Extended Order #272
+Extended Order #273
+Extended Order #274
+Extended Order #275
+Extended Order #276
+Extended Order #277
+Extended Order #278
+Extended Order #279
+Extended Order #280
+Extended Order #281
+Extended Order #282
+Extended Order #283
+Extended Order #284
+Extended Order #285
+Extended Order #286
+Extended Order #287
+Extended Order #288
+Extended Order #289
+Extended Order #290
+Extended Order #291
+Extended Order #292
+Extended Order #293
+Extended Order #294
+Extended Order #295
+Extended Order #296
+Extended Order #297
+Extended Order #298
+Extended Order #299
+Extended Order #300
+Extended Order #301
+Extended Order #302
+Extended Order #303
+Extended Order #304
+Extended Order #305
+Extended Order #306
+Extended Order #307
+Extended Order #308
+Extended Order #309
+Extended Order #310
+Extended Order #311

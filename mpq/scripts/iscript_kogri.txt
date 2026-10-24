@@ -1,0 +1,176 @@
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+# All shadows
+.headerstart
+IsId          	275
+Type          	1
+Init          	ShadowHeaderInit
+Death         	Generic_Wait1End
+.headerend
+# ----------------------------------------------------------------------------- #
+
+ShadowHeaderInit:
+	wait              	1
+	followmaingraphic
+	goto              	ShadowHeaderInit
+	
+Generic_Wait1End:
+	wait				1
+	end
+
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+# Generic engines, e.g.
+# 2194 Helion Engines (cm\a\helion-engine.grp)
+.headerstart
+IsId          	730
+Type          	15
+Init          	Engines_MultiGlowHeader_OmniInit
+Death         	Generic_Wait1End
+GndAttkInit   	Generic_Wait1End
+AirAttkInit   	Generic_Wait1End
+Unused1       	[NONE]
+GndAttkRpt    	Generic_Wait1End
+AirAttkRpt    	Generic_Wait1End
+CastSpell     	Generic_Wait1End
+GndAttkToIdle 	Generic_Wait1End
+AirAttkToIdle 	Generic_Wait1End
+Unused2       	[NONE]
+Walking       	Engines_MultiGlowHeader_OmniInit
+WalkingToIdle 	Generic_Wait1End
+SpecialState1 	[NONE]
+SpecialState2 	[NONE]
+AlmostBuilt   	Generic_Wait1End
+.headerend
+# ----------------------------------------------------------------------------- #
+
+Engines_MultiGlowHeader_OmniInit:
+	engframe			0
+	wait              	1
+	engframe			32
+	wait              	1
+	goto              	Engines_MultiGlowHeader_OmniInit
+
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+# Generic remnants 5
+# 1500 Blackjack Remains (cm\terran\blackjack-corpse.grp)
+.headerstart
+IsId          	650
+Type          	1
+Init          	GenericRemnantsFiveInit
+Death         	GenericRemnantsFiveDeath
+.headerend
+# ----------------------------------------------------------------------------- #
+
+GenericRemnantsFiveInit:
+	playfram          	0x00
+	wait              	239
+GenericRemnantsFiveDeath:
+	wait				1
+	playfram          	1
+	wait              	255
+	wait				24
+	playfram          	2
+	wait              	255
+	wait				24
+	playfram          	3
+	wait              	255
+	wait				24
+	playfram          	4
+	wait              	255
+	wait				24
+	end
+	
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+# 976 Optical Flare Hit (Small) (thingy\TmeFlshS.grp)
+# 977 Optical Flare Hit (Medium) (thingy\TmeFlshM.grp)
+# 978 Optical Flare Hit (Large) (thingy\TmeFlshL.grp)
+.headerstart
+IsId          	32
+Type          	1
+Init          	OpticalFlareHitInit
+Death         	Generic_Wait1End
+.headerend
+# ----------------------------------------------------------------------------- #
+
+OpticalFlareHitInit:
+	playfram          	0x00
+	wait              	1
+	playfram          	1
+	wait              	1
+	playfram          	2
+	wait              	1
+	playfram          	3
+	wait              	1
+	playfram          	4
+	wait              	1
+	playfram          	5
+	wait              	1
+	playfram          	6
+	wait              	1
+	playfram          	7
+	wait              	1
+	playfram          	8
+	wait              	1
+	goto              	Generic_Wait1End
+	
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+# Generic remnants 3, e.g.
+# 2257 Thaumalogue Remains (cm\a\thaumalogue-remains.grp)
+.headerstart
+IsId          	41
+Type          	1
+Init          	GenericRemnantsThreeInit
+Death         	GenericRemnantsThreeDeath
+.headerend
+# ----------------------------------------------------------------------------- #
+
+GenericRemnantsThreeInit:
+	playfram          	0x00
+	wait              	239
+GenericRemnantsThreeDeath:
+	wait				1
+	playfram          	1
+	wait              	255
+	wait				24
+	playfram          	2
+	wait              	255
+	wait				24
+	playfram          	3
+	wait              	255
+	wait				24
+	end
+
+# ----------------------------------------------------------------------------- #
+# This header is used by images.dat entries:
+.headerstart
+IsId          	291
+Type          	15
+Init          	Engines_GlowHeaderInit
+Death         	Generic_Wait1End
+GndAttkInit   	Generic_Wait1End
+AirAttkInit   	Generic_Wait1End
+Unused1       	[NONE]
+GndAttkRpt    	Generic_Wait1End
+AirAttkRpt    	Generic_Wait1End
+CastSpell     	Generic_Wait1End
+GndAttkToIdle 	Generic_Wait1End
+AirAttkToIdle 	Generic_Wait1End
+Unused2       	[NONE]
+Walking       	Engines_GlowHeaderInit
+WalkingToIdle 	Generic_Wait1End
+SpecialState1 	[NONE]
+SpecialState2 	[NONE]
+AlmostBuilt   	Generic_Wait1End
+.headerend
+# ----------------------------------------------------------------------------- #
+
+Engines_GlowHeaderInit:
+	engset            	0
+	wait              	1
+	engset            	1
+	wait              	1
+	goto              	Engines_GlowHeaderInit

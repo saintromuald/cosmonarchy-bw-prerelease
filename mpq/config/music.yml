@@ -1,0 +1,35 @@
+# Music fields (only `tracks` is required):
+#   tracks       list of track paths, played in order as a playlist
+#   loop         restart the playlist when it ends          (default: true)
+#   fade_in      fade the cue in when it starts             (default: false)
+#   loop_start   on wrap, resume at this index instead of 0 (default: 0)
+#   start_index  index to begin playback on                (default: 0)
+
+races:
+  zerg:
+    in_game:    { tracks: [music/zerg1.wav, music/zerg2.wav, music/zerg3.wav] }
+    ready_room: { tracks: [music/zrdyroom.wav], fade_in: true }
+    victory:    { tracks: [music/zvict.wav], fade_in: true }
+    defeat:     { tracks: [music/zdefeat.wav], fade_in: true }
+  terran:
+    in_game:    { tracks: [music/terran1.ogg, music/terran2.wav, music/terran3.wav] }
+    ready_room: { tracks: [music/trdyroom.wav], fade_in: true }
+    victory:    { tracks: [music/tvict.wav], fade_in: true }
+    defeat:     { tracks: [music/tdefeat.wav] }
+  protoss:
+    in_game:    { tracks: [music/protoss1.wav, music/protoss2.wav, music/protoss3.wav] }
+    ready_room: { tracks: [music/prdyroom.wav], fade_in: true }
+    victory:    { tracks: [music/pvict.wav] }
+    defeat:     { tracks: [music/pdefeat.wav] }
+  askosi:
+    in_game:  { tracks: [music/askosi1.ogg, music/askosi2.ogg, music/askosi3.ogg] }
+    # ready_room not available yet
+    victory: { tracks: [music/avict.ogg] }
+    defeat:  { tracks: [music/adefeat.ogg] }
+
+# Everything else at the top level is a named cue
+title:   { tracks: [music/title.ogg] }
+credits: { tracks: [music/terran2.wav] }
+radio_free_zerg:
+  tracks: [music/RadioFreeZerg.wav, music/zerg1.wav, music/zerg2.wav, music/zerg3.wav]
+  loop_start: 1

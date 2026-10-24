@@ -1,0 +1,1000 @@
+Skryrokor
+Rilirokor
+Infested Terran
+Cocoon
+Isthrathaleth
+Droleth
+Egg
+Geszithalor
+Hydralisk
+Infested Kerrigan
+Larva
+Mutalisk
+Ovileth
+Matraleth
+Ultrokor
+Zethrokor
+Cerebrate
+Infested Ministry
+Quazeth Pool
+Mature Chrysalis
+Almakis Antre
+Cagrant Colony
+Hachirosk
+Gathtelosk
+Caphrolosk
+Surkith Colony
+Vithrath Haunt
+Rakzogth Roost
+Matravil Nest
+Nydus Cesiant
+Overmind With Shell
+Overmind Without Shell
+Ulgorg Cavern
+Excisant
+Hydrith Den
+Muthrok Spire
+Spraith Cesiant
+Didact
+Archon Energy
+Solarion
+Dracadin
+Steward
+Scribe
+Scout (deprecated)
+Envoy
+Cantavis
+Dark Templar (Hero)
+Accantor
+Plasma Shell
+Zealot
+Witness
+Templar Archives
+Aquifer
+Machinist Hall
+Citadel of Adun
+Embassy
+Gateway
+Cenotaph
+Khaydarin Crystal Formation
+Nexus
+Warden
+Celestial Tribune
+Pylon
+Lattice
+Shield Battery
+Stargate
+Stasis Prison
+Robotics Support Bay
+Protoss Temple
+Fleet Beacon
+Minotaur
+Civilian
+Trojan
+Harakan
+Eidolon
+Goliath Base
+Goliath Turret
+Sarah Kerrigan
+Maverick
+Scanner Sweep
+Wraith
+Mason
+Phalanx (Tank) Base
+Phalanx (Tank) Turret
+Phalanx (Siege) Base
+Phalanx (Siege) Turret
+Seraph (Base)
+Seraph (Turret)
+Vulture
+Spider Mine
+Fountainhead
+Stockade
+Atelier
+Comsat Station
+Ministry
+Supply Depot
+Commandment
+Fulcrum
+Covert Ops
+Ion Cannon (old, unused)
+Machine Shop
+Watchdog (Base)
+Crashed Minotaur
+Physics Lab
+Anchor
+Reservoir
+Immobile Barracks
+Daedala
+Anvil
+Morningstar
+Starport
+Atlas
+Terran Construction (Large)
+Terran Construction (Small)
+Ragnasaur (Ashworld)
+Rhynadon (Badlands)
+Bengalaas (Jungle)
+Vespene Geyser
+Mineral Field Type1
+Mineral Field Type2
+Mineral Field Type3
+Facade
+Zerg Beacon
+Terran Beacon
+Protoss Beacon
+Carapace Swarm
+Flag
+Young Chrysalis
+Psi Emitter
+Data Disk
+Khaydarin Crystal
+Mineral Chunk Type1
+Mineral Chunk Type2
+Protoss Gas Orb Type1
+Protoss Gas Orb Type2
+Zerg Gas Sac Type1
+Zerg Gas Sac Type2
+Terran Gas Tank Type1
+Terran Gas Tank Type2
+Map Revealer
+Start Location
+Fusion Cutter Hit
+Gauss Rifle Hit
+C-10 Canister Rifle Hit
+Gemini Missiles
+Fragmentation Grenade
+Lockdown/LongBolt/Hellfire Missile
+Unused Lockdown
+ATS/ATA Laser Battery
+Burst Lasers
+Arclite Shock Cannon Hit
+EMP Missile
+Dual Photon Blasters Hit
+Particle Beam Hit
+Anti-Matter Missile
+Pulse Cannon
+Psionic Shockwave Hit
+Psionic Storm
+Yamato Gun
+Phase Disruptor
+STA/STS Cannon Overlay
+Surkith Cesiant Tentacle
+Venom
+Acid Spore
+Plasma Drip Hit (Unused)
+Glave Wurm
+Seeker Spores
+Queen Spell Carrier
+Plague Cloud
+Consume
+Ensnare
+Needle Spine Hit
+White Circle (Invisible)
+Left Upper Level Door
+Right Upper Level Door
+Substructure Left Door
+Substructure Right Door
+Substructure Opening Hole
+Floor Gun Trap
+Floor Missile Trap
+Wall Missile Trap
+Wall Missile Trap2
+Wall Flame Trap
+Wall Flame Trap2
+Lakizilisk Egg (unused)
+Vithrilisk
+Lakizilisk
+Mind Tyrant Energy
+Cabalist
+Cleric
+Valkyrie
+Lanifect
+Disruption Field
+Overmind Cocoon
+Psi Disrupter
+Warp Gate
+Power Generator
+Xel'Naga Temple
+Scantid
+Kakaru
+Ursadon (Ice)
+Optical Flare Grenade
+Halo Rockets
+Subterranean Spines
+Corrosive Acid Shot
+Corrosive Acid Hit
+Neutron Flare
+Uraj
+Khalis
+Copy of Skryling
+Copy of Maverick
+Quarry
+Vespene Ridge
+Iroleth
+Matrix
+Paladin
+Madrigal (Imperioso)
+Savant (Entropy Gauntlets)
+Scrapyard
+Rotary
+Sundog
+Azazel
+Matador (Tank Mode)
+Gorgrokor
+Starpad
+Aurora
+Panoptus
+Centaur
+Cuirass
+Centaur Missile
+Madrigal Furia Missile
+Augur
+Kalkiir Lake
+Othstol Oviform
+Cestus
+Irulent Ivoa
+Othstoleth
+Ancestral Archives
+Irol Iris
+Treasury
+Sibraelosk
+Simulacrum
+Ancile
+Automaton Register
+Auxiliary Oasis
+Quantum Institute
+Astral Omen
+Pegasus
+Parthenon
+Nathrokor
+Empyrean
+Hippogriff
+Ecclesiast
+Atreus
+Amaranth
+Oberon
+Empyrean Missile
+Alkajelisk
+Keskathalor
+Star Sovereign
+Apostle
+Exemplar Torpedo
+Argosy
+Nanite Assembly
+Particle Accelerator
+Crucible
+Zarcavrokor
+Gladius
+Magister
+Vassal
+Madcap
+Salamander
+Silvertongue Laser
+Gorgon
+Pegasus
+Phobos
+Penumbra
+Cyclops
+Pegasus Missile
+Phobos Laser
+Salamander Torpedo
+Sanctum of Sorrow
+Geszkath Grotto
+Shaman (Support Mode)
+Kethraj Keep
+Idol
+Golem
+Barghest
+Synthetic Synod
+Pariah
+Talos
+Gladius Plasma
+Selkerilisk
+Cyclops Weaponhit
+Maelstrom Projectile
+Kalkalisk
+Wyvern
+Manifold
+Architect
+Vagrant
+Burst Lasers Silent
+Alkajelisk Spore
+Alkajelisk Passive Spore
+Terran Heavy Missile
+Madrigal Imperioso Missile
+Kalkalisk Spore
+Shock Cannon Explosion Silent
+Longbolt Missile Silent
+Architect Missile
+Burst Lasers Impact
+Burst Lasers Blue Impact
+Burst Lasers Red Impact
+Diadem
+Diadem Projectile
+Keskathalor Spore
+Burst Lasers Explosive
+Herald
+Clarion
+Epigraph
+Seeker Spores Silent
+Zoryusthaleth
+Zorkiz Shroud
+Quazilisk
+Tethzorokor
+Almaksalisk
+Aion
+Rililisk
+Fusion Cutter Impact Small
+Ministry Christmas
+Protathalor
+Nexus Christmas
+Hachirosk Christmas
+Caphrolosk Christmas
+Gathtelosk Christmas
+Mason Christmas
+Scribe Christmas
+Droleth Christmas
+Cikralisk
+Larvosk Cesiant
+Captaincy
+Iron Foundry
+Mineral Field 1 Christmas
+Mineral Field 2 Christmas
+Mineral Field 3 Christmas
+Vestry
+Heracles
+Pazuzu
+Astral Blaster Impact
+Hierophant
+Legionnaire
+Vilgorokor
+Blackjack
+Cohort
+Aspirant
+Aspirant Criticality Field
+Akistrokor
+Konvilisk
+Claymore
+Tethvith Swamp
+Keskathalor Weaponhit
+Alaszileth
+Diadem Weaponhit
+Irradiate Small
+Irradiate Medium
+Irradiate Large
+Demiurge
+Siren
+Charlatan
+Canister Rifle Blue Impact
+Exemplar
+Shock Cannon Impact Damageless
+Neutron Flare Orange Impact
+Hallucination Projectile
+Hallucination Field
+Aspirant Plasma
+Cyprian Weaponhit
+Gauss Rifle Impact Green
+Canister Rifle Impact Green
+Burst Lasers Blue Silent
+Skithrokor
+Tosgrilisk
+Autocrat
+Olympian
+Guildhall
+Liiralisk
+Sovroleth
+Seeker Spores Bounce
+Burst Lasers Bounce
+Striga
+Luminary
+Axitrilisk
+Anticthon
+Anthelion
+Tinkerer's Tower
+Biotic Base
+Prostration Stage
+Rogue Gallery
+Strident Stratum
+Monument of Sin
+Empress
+Tarasque Spores
+Tarasque
+Neutron Flare Orange Damageless
+Axtoth Axis
+Shock Cannon Impact Damageless Silent
+Magnetar
+Izirokor
+Izirokor Spore
+Cyclops Passive Impact
+Burst Lasers Blue Impact Damageless
+Gosvileth
+Artisan
+Future Station
+Keskathalor Spores
+Seeker Spores Double Silent
+Kagralisk
+Alkag Iteth
+Kagralisk Venom
+Neutron Flare Impact Silent
+Evigrilisk
+Sentinel Base
+Ghitorokor
+Zobriolisk
+Idol Weaponhit
+Wendigo
+Southpaw
+Warden Projectile
+Cyprian
+Cataphract
+Durendal
+Sevenstep
+Tetcaerokor
+Paladin Missile
+Dilettante
+Hypnagogue
+Ambassador
+Heir
+Horseman
+Iron Council
+Amphitheater
+Thespian
+Silvertongue
+Throneroom
+Emperor
+Jester
+Apothecary
+Sequestered Icon
+Optecton
+Patriarch
+Pythean
+Vagrant Shade
+Ardent Authority
+Unitary Union
+Mantle
+Ramesses
+Servitor
+Positron
+Sycophant
+Daniel's Mason
+Smoochie Boy
+Police Station
+Police Intern
+Ezigrisant
+Wellbore
+Police Deputy
+Cuirass (Trench Mode)
+Spirtith Cesiant
+Skortrith Cesiant
+Empress Plasma
+Engram
+Hammerfall Beacon
+Zarcavrokor Bone
+Cyprian Rail
+Sevenstep Rail
+Bactalisk Acid
+Ocsal Larva
+Burst Lasers Red Small
+Burst Lasers Red
+Phalanx Mortar
+Matador (Cinder Mode)
+Matador Turret (Tank Mode)
+Matador Turret (Cinder Mode)
+Wyvern Turret
+Analogue
+Mortothrokor
+Shaman (Visionary Mode)
+Vilgoleth
+Madrigal Turret (Imperioso)
+Madrigal (Furia Mode)
+Madrigal Turret (Furia)
+Philoc
+Sevenstep Projectile
+Omnivale
+Lodestone
+Ocsal Cesiant
+Potentate
+Skortrith Cesiant Tentacle
+Cyclops Weapon Impact
+Sentinel Rail
+Hotshot
+Vornath Pond
+Skithrok Scab
+Qilin
+Auriel
+Spoke Shell
+Adherent
+Extatus
+Nathrelisk
+Unused
+Anchor (Grounded)
+Carapace Swarm (Small)
+Chokralgant Chazsal
+Algoztalisk
+Okrimnilisk
+Cherbrathalor
+Grand Library
+Magister Weapon Impact
+Positron Projectile
+Sasyrvoleth
+Autocrat Laser
+Angeltear Rockets
+Ackmed
+Venom (White)
+Skithrokor Spore
+Photon Blasters White
+Photon Blasters Green
+Liiralisk Glave
+Evigrilisk Tentacle
+Cyclops (Futurist Federation)
+Zealot (Starbound)
+Ecclesiast (Khalendric Knights)
+Vibrance
+Charlatan Projectile
+Phase Disruptor Large
+Harakan (Golden)
+Iziralisk
+Cicatus
+White Circle (Instant)
+Kazitrith Cesiant
+Cleric (Futurist)
+Piety Ward
+Sieve
+Cedent
+Eskigant
+Oscilliant
+Renesair
+Unar
+Ashguard
+Xenolith
+Savant (Power Siphon)
+Landlock
+Quazrokor
+Dracadin (Order)
+Blackjack (Golden)
+Tiangou Base
+Tiangou (Turret)
+Eidolon (Nydus)
+Maverick (Futurist)
+Hydralisk (Orkoti)
+Tencendur
+Inzorthrokor
+Manifold (Starbound)
+Yblyleth
+Terran Heavy Missile Aion
+Pilgrim
+Large Protoss Laser
+Vorvrokor
+Bactalisk
+Blackguard
+Arhaun Projectile
+Arhaun Base
+Arhaun Turret
+Morningstar Radiation Field
+Zozarc Gorge
+Autocort
+Ogun (Worker Mode)
+Ogun (Smithy Mode)
+Cannibal
+Agrileth
+Arch
+Chantry
+Function
+Radix
+Cardinal
+Vicar
+Missionary
+Emissary
+Inkblot
+Vulture (Hecaton)
+Tartarus Mine (Hecaton)
+Madrigal (Hecaton, Imperioso)
+Madrigal Turret (Hecaton, Imperioso)
+Madrigal (Hecaton, Furia)
+Madrigal Turret (Hecaton, Furia)
+Rove
+Burst Lasers Green Impact
+Burst Lasers Cyan Impact
+Kethrostalor
+Dyad
+Cipher
+Francisco Goska
+Stroluum
+Gauntlet
+Cosmoscope
+Helion
+Tirade
+Scepter
+Azanthrokor
+Bounty
+Proselyte
+Triton
+Triton Turret
+Mineral Field (Rich) 01
+Mineral Field (Rich) 02
+Mineral Field (Rich) 03
+Mineral Chunk (Rich) 01
+Mineral Chunk (Rich) 02
+Sovrokor
+Valkyrie (Hecaton)
+Garvrokor
+Simulacrum (Astral)
+Grandstand (Cannon)
+Grandstand (Holdout)
+Grandstand (Vision)
+Mimic
+Intendent
+Object
+Abutment
+Proscenium
+Quadriga
+Landlock (Christmas)
+Serathiel
+Intendent Electricity
+Askosi Construction (Large)
+Askosi Construction (Medium)
+Askosi Construction (Small)
+Ogroszaleth
+Malkothrokor
+Aphorist
+Thaumalogue
+Avatar
+Doronin
+Zylode
+Agonist
+Petract
+Phontis
+Zonguard
+Astrolabe
+Akreno
+Iconoclast
+Crematorium
+Paraclete
+Zethalor
+Scrylyleth
+Conduit
+Bestiary
+Eyelet
+Obelisk
+Auxine
+Constituent
+Missionary Weaponhit
+Maverick (Upstart)
+Vulture (Upstart)
+Goremast
+Morrigan
+Cutlass
+Cutlass Turret
+Broadside
+Broadside Turret
+Ecclesiast (Astral)
+Ajax
+Dorminge
+Domain
+Panoply
+Lotiro
+Pathlight
+Ferrum
+Chalyb
+Circitor
+Exigo
+Athla
+Vicere
+Machinamentum
+Big Infested Kerrigan
+Lekrot
+Hearthshard
+Insurant
+Silversoul
+Ghostwrit
+Azjoran
+Elgird
+Histrion
+Egocent
+Alacyne
+Begolor
+Limire
+Endbore
+Tortare
+Cybrene
+Raynor Vulture
+Scralia
+Endbore Electricity
+Rozirokor
+Zytryleth
+Camazotz
+Grimoire
+Simulacrum (Khalendric)
+Idol (Khalendric)
+Thrombocyte
+Vestige (Starbound)
+Arquebus (Hecaton)
+Acqui
+Alzurokor (Imicren)
+Hydrokor (Goszirith)
+Nihilist
+Maverick (Golden)
+Gladius (Order)
+Shaman (Upstart, Support)
+Shaman (Upstart, Adrenaline)
+Ammo Crate
+Medkit
+Battery Cell
+Okrimnilisk Spore
+Raynor (Maverick)
+Cyprian (Hecaton)
+Memphis (Tank Mode)
+Memphis (Flak Mode)
+Memphis Turret (Tank Mode)
+Memphis Turret (Flak Mode)
+Fragmentary Shells (with damage)
+Floor Flame Trap
+Zethalisk
+Athuzelon
+Ifrit (Tank Mode)
+Ifrit Turret (Tank Mode)
+Ifrit (Siege Mode)
+Ifrit Turret (Siege Mode)
+Tirade (Deployed)
+Magian
+Scepter Laser
+Burst Lasers Yellow Small
+Burst Lasers Yellow
+Extended Flingy #534
+Extended Flingy #535
+Extended Flingy #536
+Extended Flingy #537
+Extended Flingy #538
+Extended Flingy #539
+Extended Flingy #540
+Extended Flingy #541
+Extended Flingy #542
+Extended Flingy #543
+Extended Flingy #544
+Extended Flingy #545
+Extended Flingy #546
+Extended Flingy #547
+Extended Flingy #548
+Extended Flingy #549
+Extended Flingy #550
+Extended Flingy #551
+Extended Flingy #552
+Extended Flingy #553
+Extended Flingy #554
+Extended Flingy #555
+Extended Flingy #556
+Extended Flingy #557
+Extended Flingy #558
+Extended Flingy #559
+Extended Flingy #560
+Extended Flingy #561
+Extended Flingy #562
+Extended Flingy #563
+Extended Flingy #564
+Extended Flingy #565
+Extended Flingy #566
+Extended Flingy #567
+Extended Flingy #568
+Extended Flingy #569
+Extended Flingy #570
+Extended Flingy #571
+Extended Flingy #572
+Extended Flingy #573
+Extended Flingy #574
+Extended Flingy #575
+Extended Flingy #576
+Extended Flingy #577
+Extended Flingy #578
+Extended Flingy #579
+Extended Flingy #580
+Extended Flingy #581
+Extended Flingy #582
+Extended Flingy #583
+Extended Flingy #584
+Extended Flingy #585
+Extended Flingy #586
+Extended Flingy #587
+Extended Flingy #588
+Extended Flingy #589
+Extended Flingy #590
+Extended Flingy #591
+Extended Flingy #592
+Extended Flingy #593
+Extended Flingy #594
+Extended Flingy #595
+Extended Flingy #596
+Extended Flingy #597
+Extended Flingy #598
+Extended Flingy #599
+Extended Flingy #600
+Extended Flingy #601
+Extended Flingy #602
+Extended Flingy #603
+Extended Flingy #604
+Extended Flingy #605
+Extended Flingy #606
+Extended Flingy #607
+Extended Flingy #608
+Extended Flingy #609
+Extended Flingy #610
+Extended Flingy #611
+Extended Flingy #612
+Extended Flingy #613
+Extended Flingy #614
+Extended Flingy #615
+Extended Flingy #616
+Extended Flingy #617
+Extended Flingy #618
+Extended Flingy #619
+Extended Flingy #620
+Extended Flingy #621
+Extended Flingy #622
+Extended Flingy #623
+Extended Flingy #624
+Extended Flingy #625
+Extended Flingy #626
+Extended Flingy #627
+Extended Flingy #628
+Extended Flingy #629
+Extended Flingy #630
+Extended Flingy #631
+Extended Flingy #632
+Extended Flingy #633
+Extended Flingy #634
+Extended Flingy #635
+Extended Flingy #636
+Extended Flingy #637
+Extended Flingy #638
+Extended Flingy #639
+Extended Flingy #640
+Extended Flingy #641
+Extended Flingy #642
+Extended Flingy #643
+Extended Flingy #644
+Extended Flingy #645
+Extended Flingy #646
+Extended Flingy #647
+Extended Flingy #648
+Extended Flingy #649
+Extended Flingy #650
+Extended Flingy #651
+Extended Flingy #652
+Extended Flingy #653
+Extended Flingy #654
+Extended Flingy #655
+Extended Flingy #656
+Extended Flingy #657
+Extended Flingy #658
+Extended Flingy #659
+Extended Flingy #660
+Extended Flingy #661
+Extended Flingy #662
+Extended Flingy #663
+Extended Flingy #664
+Extended Flingy #665
+Extended Flingy #666
+Extended Flingy #667
+Extended Flingy #668
+Extended Flingy #669
+Extended Flingy #670
+Extended Flingy #671
+Extended Flingy #672
+Extended Flingy #673
+Extended Flingy #674
+Extended Flingy #675
+Extended Flingy #676
+Extended Flingy #677
+Extended Flingy #678
+Extended Flingy #679
+Extended Flingy #680
+Extended Flingy #681
+Extended Flingy #682
+Extended Flingy #683
+Extended Flingy #684
+Extended Flingy #685
+Extended Flingy #686
+Extended Flingy #687
+Extended Flingy #688
+Extended Flingy #689
+Extended Flingy #690
+Extended Flingy #691
+Extended Flingy #692
+Extended Flingy #693
+Extended Flingy #694
+Extended Flingy #695
+Extended Flingy #696
+Extended Flingy #697
+Extended Flingy #698
+Extended Flingy #699
+Extended Flingy #700
+Extended Flingy #701
+Extended Flingy #702
+Extended Flingy #703
+Extended Flingy #704
+Extended Flingy #705
+Extended Flingy #706
+Extended Flingy #707
+Extended Flingy #708
+Extended Flingy #709
+Extended Flingy #710
+Extended Flingy #711
+Extended Flingy #712
+Extended Flingy #713
+Extended Flingy #714
+Extended Flingy #715
+Extended Flingy #716
+Extended Flingy #717
+Extended Flingy #718
+Extended Flingy #719
+Extended Flingy #720
+Extended Flingy #721
+Extended Flingy #722
+Extended Flingy #723
+Extended Flingy #724
+Extended Flingy #725
+Extended Flingy #726
+Extended Flingy #727
+Extended Flingy #728
+Extended Flingy #729
+Extended Flingy #730
+Extended Flingy #731
+Extended Flingy #732
+Extended Flingy #733
+Extended Flingy #734
+Extended Flingy #735
+Extended Flingy #736
+Extended Flingy #737
+Extended Flingy #738
+Extended Flingy #739
+Extended Flingy #740
+Extended Flingy #741
+Extended Flingy #742
+Extended Flingy #743
+Extended Flingy #744
+Extended Flingy #745
+Extended Flingy #746
+Extended Flingy #747
+Extended Flingy #748
+Extended Flingy #749
+Extended Flingy #750
+Extended Flingy #751
+Extended Flingy #752
+Extended Flingy #753
+Extended Flingy #754
+Extended Flingy #755
+Extended Flingy #756
+Extended Flingy #757
+Extended Flingy #758
+Extended Flingy #759
+Extended Flingy #760
+Extended Flingy #761
+Extended Flingy #762
+Extended Flingy #763
+Extended Flingy #764
+Extended Flingy #765
+Extended Flingy #766
+Extended Flingy #767
+Extended Flingy #768
+Extended Flingy #769
+Extended Flingy #770
+Extended Flingy #771
+Extended Flingy #772
+Extended Flingy #773
+Extended Flingy #774
+Extended Flingy #775
+Extended Flingy #776
+Extended Flingy #777
+Extended Flingy #778
+Extended Flingy #779
+Extended Flingy #780
+Extended Flingy #781
+Extended Flingy #782
+Extended Flingy #783
+Extended Flingy #784
+Extended Flingy #785
+Extended Flingy #786
+Extended Flingy #787
+Extended Flingy #788
+Extended Flingy #789
+Extended Flingy #790
+Extended Flingy #791

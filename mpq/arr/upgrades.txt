@@ -1,0 +1,100 @@
+Terran Infantry Armor
+Terran Vehicle Plating
+Terran Ship Plating
+Zerg Carapace
+Zerg Flyer Caparace
+Protoss Armor
+Protoss Plating
+Terran Infantry Weapons
+Terran Vehicle Weapons
+Terran Ship Weapons
+Zerg Melee Attacks
+Zerg Missile Attacks
+Zerg Flyer Attacks
+Protoss Ground Weapons
+Protoss Air Weapons
+Protoss Plasma Shields
+U-238 Shells
+Ion Thrusters
+Mining Efficiency
+Titan Reactor (SV +50)
+Ocular Implants
+Moebius Reactor (Ghost +50)
+Apollo Reactor (Wraith +50)
+Colossus Reactor (BC +50)
+Ventral Sacs
+Antennae
+Pneumatized Carapace
+Metabolic Boost
+Adrenal Glands
+Muscular Augments
+Grooved Spines
+Gamete Meiosis (Queen +50)
+Metasynaptic Node (Defiler +50)
+Singularity Charge
+Leg Enhancements
+Scarab Damage
+Reaver Capacity
+Gravitic Drive
+Sensor Array
+Gravitic Boosters
+Khaydarin Amulet (HT +50)
+Apial Sensors
+Gravitic Thrusters
+Carrier Capacity
+Khaydarin Core (Arbiter +50)
+Unknown Upgrade45
+Unknown Upgrade46
+Argus Jewel (Corsair +50)
+Unknown Upgrade48
+Argus Talisman (DA +50)
+Unknown Upgrade50
+Caduceus Reactor (Medic +50)
+Chitinous Plating
+Askosi Biotic Bolting
+Askosi Mechani Bolting
+Askosi Skyskip Bolting
+Askosi Structure Bolting
+Protoss Structure Armor
+Zerg Structure Armor
+Terran Structure Armor
+GlobalUpgrade60
+Forerunner Alloy
+Forerunner Lattice
+Bloodsummon Stigmata
+Bloodsummon Atar
+Bloodsummon Sacrament
+Forerunner Capacitors
+Extended Upgrade #7
+Extended Upgrade #8
+Extended Upgrade #9
+Extended Upgrade #10
+Extended Upgrade #11
+Extended Upgrade #12
+Extended Upgrade #13
+Extended Upgrade #14
+Extended Upgrade #15
+Extended Upgrade #16
+Extended Upgrade #17
+Extended Upgrade #18
+Extended Upgrade #19
+Extended Upgrade #20
+Extended Upgrade #21
+Extended Upgrade #22
+Extended Upgrade #23
+Extended Upgrade #24
+Extended Upgrade #25
+Extended Upgrade #26
+Extended Upgrade #27
+Extended Upgrade #28
+Extended Upgrade #29
+Extended Upgrade #30
+Extended Upgrade #31
+Extended Upgrade #32
+Extended Upgrade #33
+Extended Upgrade #34
+Extended Upgrade #35
+Extended Upgrade #36
+Extended Upgrade #37
+Extended Upgrade #38
+Extended Upgrade #39

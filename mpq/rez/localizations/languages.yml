@@ -1,0 +1,5 @@
+languages:
+  - tag: en-US
+    name: English
+  - tag: ko-KR
+    name: 한국어 (Korean)

@@ -1,0 +1,9691 @@
+#####image_999
+###copy of skryling
+grp_id: 1
+iscript_id: 0
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1000
+###copy of marine
+grp_id: 245
+iscript_id: 78
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1001
+###Quarry
+grp_id: 930
+iscript_id: 415
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1262
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1002
+###Vespene Ridge
+grp_id: 1460
+iscript_id: 669
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 1462
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1003
+###Iroleth
+grp_id: 932
+iscript_id: 414
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1004
+###Mutation Pit
+grp_id: 933
+iscript_id: 516
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1155
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1005
+###Paladin
+grp_id: 934
+iscript_id: 425
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 962
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1006
+###Madrigal
+grp_id: 935
+iscript_id: 424
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1007
+###Savant
+grp_id: 936
+iscript_id: 442
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1008
+###Salvo Yard
+grp_id: 937
+iscript_id: 427
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1242
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1009
+###Munitions Bay
+grp_id: 939
+iscript_id: 441
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1006
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1010
+###Drydock
+grp_id: 940
+iscript_id: 437
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 988
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1011
+###Future Station
+grp_id: 941
+iscript_id: 466
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1056
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1012
+###Gallery
+grp_id: 942
+iscript_id: 426
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 967
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1013
+###Paladin Shadow
+grp_id: 938
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1014
+###Quarry Shadow
+grp_id: 943
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1015
+###Gorgrokor
+grp_id: 944
+iscript_id: 413
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1016
+###Iroleth Shadow
+grp_id: 932
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1017
+###Gorgrokor Shadow
+grp_id: 944
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1018
+###Gorgrok Apiary
+grp_id: 951
+iscript_id: 416
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1101
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1019
+###Gorgrok Apiary Shadow
+grp_id: 952
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1020
+###Gorgrokor Birth
+grp_id: 13
+iscript_id: 417
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1021
+###Aurora
+grp_id: 953
+iscript_id: 418
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1022
+###Aurora Shadow
+grp_id: 953
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1023
+###Panoptus
+grp_id: 954
+iscript_id: 419
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1024
+###Panoptus Shadow
+grp_id: 954
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1025
+###Centaur
+grp_id: 956
+iscript_id: 420
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1102
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1026
+###Centaur Shadow
+grp_id: 956
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1027
+###Cuirass
+grp_id: 955
+iscript_id: 421
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1028
+###Cuirass Shadow
+grp_id: 1126
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1029
+###Centaur Engines
+grp_id: 958
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1030
+###Centaur Missile
+grp_id: 957
+iscript_id: 422
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1031
+###Parasite Overlay
+grp_id: 959
+iscript_id: 423
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1032
+###Azazel Engines
+grp_id: 960
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1033
+###Madrigal Shadow
+grp_id: 935
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1034
+###Centaur Attack
+grp_id: 961
+iscript_id: 250
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1035
+###Hallucination Overlay
+grp_id: 533
+iscript_id: 321
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1036
+###Gallery Shadow
+grp_id: 963
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1037
+###Salvo Yard Shadow
+grp_id: 964
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1038
+###Augur-energy
+grp_id: 966
+iscript_id: 428
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1039
+###Augur-being
+grp_id: 965
+iscript_id: 429
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1040
+###Liivral Pond
+grp_id: 968
+iscript_id: 430
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 972
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1041
+###Iroleth Quay
+grp_id: 970
+iscript_id: 431
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 973
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1042
+###Liivral Pond Shadow
+grp_id: 969
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 1
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1043
+###Iroleth Quay Shadow
+grp_id: 971
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1044
+###Quantum Institute
+grp_id: 974
+iscript_id: 432
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 976
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1045
+###Quantum Institute Shadow
+grp_id: 975
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1046
+###Othstoleth Berth
+grp_id: 977
+iscript_id: 433
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 979
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1047
+###Othstoleth Berth Shadow
+grp_id: 978
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1048
+###Othstoleth
+grp_id: 980
+iscript_id: 434
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1049
+###Othstoleth Shadow
+grp_id: 980
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1050
+###Grand Library
+grp_id: 981
+iscript_id: 435
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 983
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1051
+###Grand Library Shadow
+grp_id: 982
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1052
+###Grand Library Warp In
+grp_id: 981
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1053
+###Overlord Iris
+grp_id: 984
+iscript_id: 436
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 986
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1054
+###Overlord Iris Shadow
+grp_id: 985
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1055
+###Drydock Shadow
+grp_id: 987
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1056
+###Treasury
+grp_id: 989
+iscript_id: 438
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 991
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1057
+###Treasury Shadow
+grp_id: 990
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1058
+###Sire
+grp_id: 992
+iscript_id: 439
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 994
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1059
+###Sire Shadow
+grp_id: 993
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1060
+###Treasury Overlay
+grp_id: 995
+iscript_id: 440
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1061
+###Cowardice Overlay Small
+grp_id: 997
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1062
+###Cowardice Overlay Medium
+grp_id: 998
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1063
+###Cowardice Overlay Large
+grp_id: 999
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1064
+###Malice Overlay Small
+grp_id: 1000
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1065
+###Malice Overlay Medium
+grp_id: 1001
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1066
+###Malice Overlay Large
+grp_id: 1002
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1067
+###Malediction Overlay Small
+grp_id: 1003
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1068
+###Malediction Overlay Medium
+grp_id: 1004
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1069
+###Malediction Overlay Large
+grp_id: 1005
+iscript_id: 393
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1070
+###Munitions Bay Shadow
+grp_id: 1007
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1071
+###Simulacrum
+grp_id: 1008
+iscript_id: 443
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1072
+###Simulacrum Shadow
+grp_id: 1009
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1073
+###Automaton Register
+grp_id: 1014
+iscript_id: 445
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1016
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1074
+###Savant Shadow
+grp_id: 1010
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1075
+###Ancestral Effigy
+grp_id: 1011
+iscript_id: 444
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1013
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1076
+###Ancestral Effigy Shadow
+grp_id: 1012
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1077
+###Ancestral Effigy Warp In
+grp_id: 1011
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1078
+###Automaton Register Shadow
+grp_id: 1015
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1079
+###Automaton Register Warp In
+grp_id: 1014
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1080
+###Strident Stratum
+grp_id: 1017
+iscript_id: 446
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1019
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1081
+###Strident Stratum Shadow
+grp_id: 1018
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1082
+###Strident Stratum Warp In
+grp_id: 1017
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1083
+###Stellar Icon
+grp_id: 1020
+iscript_id: 447
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1022
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1084
+###Stellar Icon Shadow
+grp_id: 1021
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1085
+###Stellar Icon Warp In
+grp_id: 1020
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1086
+###Astral Omen
+grp_id: 1023
+iscript_id: 448
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1025
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1087
+###Astral Omen Shadow
+grp_id: 1024
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1088
+###Astral Omen Warp In
+grp_id: 1023
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1089
+###Celestial Shrine
+grp_id: 1026
+iscript_id: 449
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1028
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1090
+###Celestial Shrine Shadow
+grp_id: 1027
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1091
+###Celestial Shrine Warp In
+grp_id: 1026
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1092
+###Cosmic Altar
+grp_id: 1029
+iscript_id: 450
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1031
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1093
+###Cosmic Altar Shadow
+grp_id: 1030
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1094
+###Cosmic Altar Warp In
+grp_id: 1029
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1095
+###Nathrokor
+grp_id: 1032
+iscript_id: 451
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1096
+###Nathrokor Shadow
+grp_id: 1032
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1097
+###Nathrokor Attack Overlay
+grp_id: 1034
+iscript_id: 452
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1098
+###Empyrean
+grp_id: 1035
+iscript_id: 453
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1036
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1099
+###Empyrean Shadow
+grp_id: 1035
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1100
+###Nathrok Lake
+grp_id: 1037
+iscript_id: 454
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1039
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1101
+###Nathrok Lake Shadow
+grp_id: 1038
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1102
+###Phase Link Small
+grp_id: 1040
+iscript_id: 455
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1103
+###Phase Link Medium
+grp_id: 1041
+iscript_id: 455
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1104
+###Phase Link Large
+grp_id: 1042
+iscript_id: 455
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1105
+###Exemplar Laser Impact
+grp_id: 1043
+iscript_id: 456
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1106
+###Augur Corpse
+grp_id: 1044
+iscript_id: 457
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1107
+###Energy Decay Small
+grp_id: 1045
+iscript_id: 458
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1108
+###Energy Decay Medium
+grp_id: 1045
+iscript_id: 458
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1109
+###Energy Decay Large
+grp_id: 1045
+iscript_id: 458
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1110
+###Magic Sylon
+grp_id: 1046
+iscript_id: 459
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1111
+###Alkajelisk
+grp_id: 1048
+iscript_id: 460
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1112
+###Alkajelisk Shadow
+grp_id: 1048
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1113
+###Keskathalor
+grp_id: 1049
+iscript_id: 461
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1178
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1114
+###Keskathalor Shadow
+grp_id: 1050
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1115
+###Star Sovereign
+grp_id: 1047
+iscript_id: 462
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1173
+overlay_damage: 0
+overlay_special: 1185
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1116
+###Star Sovereign Shadow
+grp_id: 1047
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1117
+###Apostle
+grp_id: 1051
+iscript_id: 463
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1118
+###Apostle Shadow
+grp_id: 1052
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1119
+###Apostle Corpse
+grp_id: 1053
+iscript_id: 464
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1120
+###Exemplar Weapon
+grp_id: 1054
+iscript_id: 465
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1121
+###Future Station Shadow
+grp_id: 1055
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1122
+###Argosy
+grp_id: 1059
+iscript_id: 467
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1061
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1123
+###Argosy Shadow
+grp_id: 1060
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1124
+###Argosy Warp In
+grp_id: 1059
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1125
+###Nanite Assembly
+grp_id: 1062
+iscript_id: 468
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1064
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1126
+###Nanite Assembly Shadow
+grp_id: 1063
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1127
+###Particle Accelerator
+grp_id: 1065
+iscript_id: 469
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1067
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1128
+###Particle Accelerator Shadow
+grp_id: 1066
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1129
+###Crucible
+grp_id: 1068
+iscript_id: 470
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1070
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1130
+###Crucible Shadow
+grp_id: 1069
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1131
+###Crucible Warp In
+grp_id: 1068
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1132
+###Principality
+grp_id: 1071
+iscript_id: 471
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1073
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1133
+###Principality Shadow
+grp_id: 1072
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1134
+###Principality Warp In
+grp_id: 1071
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1135
+###Gladius
+grp_id: 1074
+iscript_id: 472
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1136
+###Gladius Shadow
+grp_id: 1074
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1137
+###Magister
+grp_id: 1075
+iscript_id: 473
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1138
+###Magister Shadow
+grp_id: 1075
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1139
+###Vassal
+grp_id: 1076
+iscript_id: 474
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1140
+###Vassal Shadow
+grp_id: 1076
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1141
+###Madcap
+grp_id: 1077
+iscript_id: 475
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1142
+###Madcap Shadow
+grp_id: 1078
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1143
+###Salamander
+grp_id: 1079
+iscript_id: 476
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1144
+###Salamander Shadow
+grp_id: 1079
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1145
+###Salamander Missile
+grp_id: 1080
+iscript_id: 477
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1146
+###Gorgon
+grp_id: 1081
+iscript_id: 478
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1147
+###Gorgon Shadow
+grp_id: 1081
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1148
+###Pegasus
+grp_id: 1082
+iscript_id: 479
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1168
+overlay_damage: 0
+overlay_special: 1169
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1149
+###Pegasus Shadow
+grp_id: 1082
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1150
+###Phobos
+grp_id: 1083
+iscript_id: 480
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1090
+overlay_damage: 0
+overlay_special: 1091
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1151
+###Phobos Shadow
+grp_id: 1083
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1152
+###Penumbra
+grp_id: 1084
+iscript_id: 481
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1186
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1153
+###Penumbra Shadow
+grp_id: 1085
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1154
+###Cyclops
+grp_id: 1086
+iscript_id: 482
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1155
+###Cyclops Shadow
+grp_id: 1087
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1156
+###Phobos Missile
+grp_id: 1088
+iscript_id: 483
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1157
+###Phobos Laser
+grp_id: 1089
+iscript_id: 484
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1158
+###Nanite Field Overlay
+grp_id: 996
+iscript_id: 485
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1159
+###Sanctum of Sorrow
+grp_id: 1093
+iscript_id: 486
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1095
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1160
+###Sanctum of Sorrow Shadow
+grp_id: 1094
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1161
+###Sanctum of Sorrow Warp In
+grp_id: 1093
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1162
+###Phobos Engines
+grp_id: 1092
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1163
+###Photon Cannon Weapon Impact
+grp_id: 1096
+iscript_id: 487
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1164
+###Beta Protoss Explosion Small
+grp_id: 1097
+iscript_id: 488
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1165
+###Last Orders Impact
+grp_id: 217
+iscript_id: 489
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1166
+###Salamander Engines
+grp_id: 1098
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1167
+###Pegasus Engines
+grp_id: 1099
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1168
+###Phobos Laser Impact
+grp_id: 1100
+iscript_id: 490
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1169
+###Salamander Missile Impact
+grp_id: 1103
+iscript_id: 491
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1170
+###Ecclesiast
+grp_id: 945
+iscript_id: 497
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1171
+###Atreus
+grp_id: 947
+iscript_id: 492
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1172
+###Ecclesiast Shadow
+grp_id: 946
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1173
+###Atreus Shadow
+grp_id: 948
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1174
+###Amaranth
+grp_id: 949
+iscript_id: 493
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1175
+###Amaranth Shadow
+grp_id: 950
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1176
+###Geszkath Grotto
+grp_id: 1104
+iscript_id: 494
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1106
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1177
+###Geszkath Grotto Shadow
+grp_id: 1105
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1178
+###Devourer Haunt
+grp_id: 1107
+iscript_id: 495
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1109
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1179
+###Devourer Haunt Shadow
+grp_id: 1108
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1180
+###Alkaj Chasm
+grp_id: 1110
+iscript_id: 496
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1112
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1181
+###Alkaj Chasm Shadow
+grp_id: 1111
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1182
+###Idol
+grp_id: 1113
+iscript_id: 498
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1183
+###Idol Shadow
+grp_id: 1114
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1184
+###Golem
+grp_id: 1115
+iscript_id: 499
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1185
+###Golem Shadow
+grp_id: 1116
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1186
+###Barghest
+grp_id: 1117
+iscript_id: 500
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1187
+###Barghest Shadow
+grp_id: 1117
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1188
+###Robotics Authority
+grp_id: 1118
+iscript_id: 501
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1120
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1189
+###Robotics Authority Shadow
+grp_id: 1119
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1190
+###Robotics Authority Warp In
+grp_id: 1118
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1191
+###Pariah
+grp_id: 1121
+iscript_id: 502
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1125
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1192
+###Pariah Shadow
+grp_id: 1122
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1193
+###Talos
+grp_id: 1123
+iscript_id: 503
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 252
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1194
+###Talos Shadow
+grp_id: 1123
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1195
+###Pariah Attack
+grp_id: 1124
+iscript_id: 504
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1196
+###Gladius Weapon
+grp_id: 1142
+iscript_id: 505
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1197
+###Southpaw Engines Unused
+grp_id: 1126
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1198
+###Gorgon Engines
+grp_id: 1127
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1199
+###Aurora Engines
+grp_id: 1128
+iscript_id: 162
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1200
+###Clarion Engines
+grp_id: 1129
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1201
+###Wyvern Engines
+grp_id: 1130
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1202
+###Exemplar Engines
+grp_id: 1132
+iscript_id: 623
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1203
+###Empyrean Engines
+grp_id: 1131
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1204
+###Gladius Engines
+grp_id: 1133
+iscript_id: 623
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1205
+###Star Sovereign Engines
+grp_id: 1134
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1206
+###Vassal Engines
+grp_id: 1135
+iscript_id: 623
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1207
+###Bactalisk
+grp_id: 1136
+iscript_id: 506
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1159
+overlay_damage: 0
+overlay_special: 1367
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1208
+###Bactalisk Shadow
+grp_id: 1137
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1209
+###Vespene Ridge Shadow
+grp_id: 1461
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1210
+###Pennant Warp In
+grp_id: 931
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1211
+###Cyclops Weapon Impact
+grp_id: 1140
+iscript_id: 508
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1212
+##Maelstrom Weapon
+grp_id: 1141
+iscript_id: 509
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1213
+###Kalkalisk
+grp_id: 1143
+iscript_id: 510
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1147
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1214
+###Kalkalisk Shadow
+grp_id: 1143
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1215
+###Zorkiz Shroud
+grp_id: 1144
+iscript_id: 511
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1146
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1216
+###Zorkiz Shroud Shadow
+grp_id: 1145
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1217
+###Manifold
+grp_id: 1148
+iscript_id: 512
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1218
+###Manifold Shadow
+grp_id: 1149
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1219
+###Architect
+grp_id: 1150
+iscript_id: 513
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1220
+###Architect Shadow
+grp_id: 1150
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1221
+###Architect Engines
+grp_id: 1151
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1222
+###Kalkalisk Birth
+grp_id: 13
+iscript_id: 514
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1223
+###Iroleth Birth
+grp_id: 13
+iscript_id: 515
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1224
+###Nathrokor Birth
+grp_id: 1152
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 1330
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1225
+###Alkajelisk Birth
+grp_id: 1153
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1226
+###Mutation Pit Shadow
+grp_id: 1154
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1227
+###Bactal Den
+grp_id: 1156
+iscript_id: 517
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1158
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1228
+###Bactal Den Shadow
+grp_id: 1157
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1229
+###Burst Lasers Silent
+grp_id: 515
+iscript_id: 518
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1230
+###Observance Overlay
+grp_id: 1160
+iscript_id: 519
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1231
+###Observance Overlay Large
+grp_id: 1161
+iscript_id: 520
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1232
+###Observance Overlay Medium
+grp_id: 1162
+iscript_id: 520
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1233
+###Observance Overlay Small
+grp_id: 1163
+iscript_id: 520
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1234
+###Harakan Corpse
+grp_id: 1164
+iscript_id: 79
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1235
+###Harakan Corpse
+grp_id: 1164
+iscript_id: 79
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1236
+###Bactalisk Birth
+grp_id: 1165
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1237
+###Bactalisk Corpse
+grp_id: 1166
+iscript_id: 19
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1238
+###Alkajelisk Missile
+grp_id: 496
+iscript_id: 266
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1239
+###Alkajelisk Spore
+grp_id: 496
+iscript_id: 266
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1240
+###Pegasus Missile
+grp_id: 1167
+iscript_id: 521
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1241
+###Keskathalor Birth
+grp_id: 1170
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1242
+###Madrigal Missile
+grp_id: 1171
+iscript_id: 521
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1243
+###Kalkalisk Missile
+grp_id: 496
+iscript_id: 522
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1244
+###Recall Field End
+grp_id: 418
+iscript_id: 523
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1245
+###Mushroom Silent
+grp_id: 513
+iscript_id: 524
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1246
+###Longbolt Missile Silent
+grp_id: 510
+iscript_id: 525
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1247
+###Architect Missile
+grp_id: 502
+iscript_id: 232
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1248
+###Burst Lasers Impact
+grp_id: 465
+iscript_id: 526
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1249
+###Burst Lasers Blue Impact
+grp_id: 465
+iscript_id: 526
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1250
+###Burst Lasers Red Impact
+grp_id: 1172
+iscript_id: 526
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1251
+###Grief of All Gods Cast
+grp_id: 1174
+iscript_id: 527
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1252
+###Grief of All Gods Beam
+grp_id: 1175
+iscript_id: 528
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1253
+###Grief of All Gods Blast Loop
+grp_id: 1176
+iscript_id: 529
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1254
+###Grief of All Gods Blast
+grp_id: 1177
+iscript_id: 530
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1255
+###Ion Cannon Base
+grp_id: 1179
+iscript_id: 531
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1183
+overlay_damage: 1182
+overlay_special: 1183
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1256
+###Ion Cannon Turret
+grp_id: 1180
+iscript_id: 532
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1183
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1257
+###Wraith Copy
+grp_id: 248
+iscript_id: 82
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1189
+overlay_damage: 0
+overlay_special: 249
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1258
+###Ion Cannon Shadow
+grp_id: 1184
+iscript_id: 628
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1259
+###Ion Cannon Weapon
+grp_id: 1200
+iscript_id: 545
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1260
+###Ion Cannon Weapon Impact
+grp_id: 1198
+iscript_id: 533
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1261
+###Keskathalor Weapon
+grp_id: 496
+iscript_id: 266
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1262
+###Keskathalor Weapon Impact
+grp_id: 1296
+iscript_id: 582
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1263
+###Burst Lasers Explosive
+grp_id: 514
+iscript_id: 534
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1264
+###Burst Lasers Impact Damageless
+grp_id: 465
+iscript_id: 294
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1265
+###Lazarus Agent Cast
+grp_id: 1187
+iscript_id: 535
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1266
+###Lazarus Agent Revive
+grp_id: 1188
+iscript_id: 536
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1267
+###Sublime Shepherd Overlay
+grp_id: 1190
+iscript_id: 537
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1268
+###Clarion
+grp_id: 1265
+iscript_id: 569
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1269
+###Clarion Shadow
+grp_id: 1265
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1270
+###Khaydarin Eclipse Large
+grp_id: 1191
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1271
+###Khaydarin Eclipse Medium
+grp_id: 1192
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1272
+###Khaydarin Eclipse Small
+grp_id: 1193
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1273
+###Protoss Accelerant Large
+grp_id: 1194
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1274
+###Protoss Accelerant Medium
+grp_id: 1195
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1275
+###Protoss Accelerant Small
+grp_id: 1196
+iscript_id: 538
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1276
+###Lobotomy Mine
+grp_id: 1197
+iscript_id: 539
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1277
+###Lobotomy Mine Corpse
+grp_id: 452
+iscript_id: 540
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1278
+###Ion Cannon Overlay
+grp_id: 1181
+iscript_id: 532
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1279
+###Seeker Spores Silent
+grp_id: 496
+iscript_id: 542
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1280
+###Ion Field
+grp_id: 1198
+iscript_id: 543
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1281
+###Ensnaring Brood Overlay
+grp_id: 1199
+iscript_id: 544
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1282
+###Zoryusthaleth
+grp_id: 1204
+iscript_id: 549
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1283
+###Zoryusthalor Shadow
+grp_id: 1205
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1284
+###Zoryus Shroud
+grp_id: 1207
+iscript_id: 552
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1218
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1285
+###Zoryus Shroud Shadow
+grp_id: 1208
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1286
+###Quazilisk
+grp_id: 1209
+iscript_id: 546
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1287
+###Quazilisk Shadow
+grp_id: 1210
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1288
+###Quazil Quay
+grp_id: 1211
+iscript_id: 548
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1217
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1289
+###Quazil Quay Shadow
+grp_id: 1212
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1290
+###Almaksalisk
+grp_id: 1213
+iscript_id: 547
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1472
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1291
+###Almaksalisk Shadow
+grp_id: 1213
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1292
+###Almakis Antre
+grp_id: 1214
+iscript_id: 551
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1216
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1293
+###Almakis Antre Shadow
+grp_id: 1215
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1294
+###Quazilisk Birth
+grp_id: 1219
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1295
+###Rililisk
+grp_id: 1220
+iscript_id: 550
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1296
+###Rililisk Shadow
+grp_id: 1220
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1297
+###Almaksalisk Birth
+grp_id: 1221
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1298
+###Zoryusthaleth Birth
+grp_id: 1222
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1299
+###Mason Spark Small
+grp_id: 1223
+iscript_id: 237
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1300
+###Command Center (Christmas)
+grp_id: 1224
+iscript_id: 102
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 66
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1301
+###Infested Command Center (Christmas)
+grp_id: 1224
+iscript_id: 39
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 66
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1302
+###Nexus (Christmas)
+grp_id: 1225
+iscript_id: 177
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 185
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 184
+###
+#####image_1303
+###Hatchery (Christmas)
+grp_id: 1226
+iscript_id: 43
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 79
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1304
+###Lair (Christmas)
+grp_id: 1227
+iscript_id: 45
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 85
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1305
+###Hive (Christmas)
+grp_id: 1228
+iscript_id: 44
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 82
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1306
+###Mason (Christmas)
+grp_id: 1229
+iscript_id: 84
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 252
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1307
+###Scribe (Christmas)
+grp_id: 1230
+iscript_id: 156
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 20
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1308
+###Droleth (Christmas)
+grp_id: 1231
+iscript_id: 11
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 19
+overlay_damage: 0
+overlay_special: 20
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1309
+###Infested Terran (Christmas)
+grp_id: 1232
+iscript_id: 6
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1310
+###Larval Colony
+grp_id: 1233
+iscript_id: 553
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1235
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1311
+###Larval Colony Shadow
+grp_id: 1234
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1312
+###Captaincy
+grp_id: 1236
+iscript_id: 554
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1238
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1313
+###Captaincy Shadow
+grp_id: 1237
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1314
+###Iron Foundry
+grp_id: 1239
+iscript_id: 555
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1241
+overlay_special: 0
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1315
+###Iron Foundry Shadow
+grp_id: 1240
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1316
+###Mineral Field 01 (Christmas)
+grp_id: 1243
+iscript_id: 556
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1317
+###Mineral Field 01 Shadow (Christmas)
+grp_id: 1244
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1318
+###Mineral Field 02 (Christmas)
+grp_id: 1245
+iscript_id: 557
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1319
+###Mineral Field 02 Shadow (Christmas)
+grp_id: 1246
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1320
+###Mineral Field 03 (Christmas)
+grp_id: 1247
+iscript_id: 558
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1321
+###Mineral Field 03 Shadow (Christmas)
+grp_id: 1248
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1322
+###Mineral Chunk (Christmas)
+grp_id: 1249
+iscript_id: 221
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1323
+###Mineral Chunk-empty (Christmas)
+grp_id: 1250
+iscript_id: 222
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1324
+###Medbay
+grp_id: 1251
+iscript_id: 559
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1253
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1325
+###Medbay Shadow
+grp_id: 1252
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1326
+###Medbay Connector
+grp_id: 1254
+iscript_id: 560
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1327
+###Protoss Warp Fade
+grp_id: 1255
+iscript_id: 561
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1328
+###Heracles
+grp_id: 1256
+iscript_id: 562
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1329
+###Heracles Shadow
+grp_id: 1257
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1330
+###Pazuzu
+grp_id: 1258
+iscript_id: 563
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1331
+###Pazuzu Shadow
+grp_id: 1258
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1332
+###Deconstruction Small
+grp_id: 1259
+iscript_id: 564
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1333
+###Deconstruction Medium
+grp_id: 1260
+iscript_id: 564
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1334
+###Deconstruction Large
+grp_id: 1261
+iscript_id: 564
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1335
+###Astral Blaster Impact
+grp_id: 1096
+iscript_id: 565
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1336
+###Hierophant
+grp_id: 1263
+iscript_id: 568
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1337
+###Hierophant Shadow
+grp_id: 1264
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1338
+###Legionnaire
+grp_id: 1266
+iscript_id: 570
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1339
+###Legionnaire Shadow
+grp_id: 1267
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1340
+###Scrapyard
+grp_id: 1273
+iscript_id: 571
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1275
+overlay_special: 1276
+overlay_landing: 67
+overlay_liftoff: 68
+overlay_shield: 2
+###
+#####image_1341
+###Scrapyard Shadow
+grp_id: 1274
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1342
+###Blackjack
+grp_id: 1277
+iscript_id: 572
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1343
+###Blackjack Shadow
+grp_id: 1278
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1344
+###Cohort
+grp_id: 1271
+iscript_id: 573
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1345
+###Cohort Shadow
+grp_id: 1272
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1346
+###Aspirant
+grp_id: 1268
+iscript_id: 574
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1347
+###Aspirant Shadow
+grp_id: 1269
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1348
+###Aspirant Corpse
+grp_id: 1270
+iscript_id: 154
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1349
+###Magnetic Field Large
+grp_id: 1279
+iscript_id: 575
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1350
+###Magnetic Field Medium
+grp_id: 1280
+iscript_id: 575
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1351
+###Magnetic Field Small
+grp_id: 1281
+iscript_id: 575
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1352
+###Akistrokor
+grp_id: 1282
+iscript_id: 576
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1353
+###Akistrokor Shadow
+grp_id: 1282
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1354
+###Konvilisk
+grp_id: 1283
+iscript_id: 577
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1473
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1355
+###Konvilisk Shadow
+grp_id: 1284
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1356
+###Konvilisk Birth
+grp_id: 1285
+iscript_id: 13
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1357
+###Konvilisk Corpse
+grp_id: 1286
+iscript_id: 79
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1358
+###Legionnaire Teleport-effect
+grp_id: 1287
+iscript_id: 578
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1359
+###Claymore Base
+grp_id: 1288
+iscript_id: 579
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1312
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1360
+###Claymore Shadow
+grp_id: 1288
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1361
+###Claymore Turret
+grp_id: 1290
+iscript_id: 580
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1312
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1362
+###Scribe Corpse
+grp_id: 1291
+iscript_id: 361
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1363
+###Orboth Omlia
+grp_id: 1292
+iscript_id: 581
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1294
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1364
+###Orboth Omlia Shadow
+grp_id: 1293
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1365
+###Warp Anchor Underlay
+grp_id: 1295
+iscript_id: 672
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1366
+###Alaszileth
+grp_id: 1297
+iscript_id: 583
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1367
+###Alaszileth Shadow
+grp_id: 1297
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1368
+###Warp Flash Fade
+grp_id: 1298
+iscript_id: 584
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1369
+###Irradiate Small
+grp_id: 1299
+iscript_id: 304
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1370
+###Irradiate Medium
+grp_id: 1300
+iscript_id: 304
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1371
+###Irradiate Large
+grp_id: 1301
+iscript_id: 304
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1372
+###Lobotomy Mine Shadow
+grp_id: 1302
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1373
+###Demiurge
+grp_id: 1303
+iscript_id: 585
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1374
+###Demiurge Shadow
+grp_id: 1304
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1375
+###Siren
+grp_id: 1305
+iscript_id: 586
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1376
+###Siren Shadow
+grp_id: 1306
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1377
+###Charlatan
+grp_id: 1307
+iscript_id: 587
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1368
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1378
+###Charlatan Shadow
+grp_id: 1308
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1379
+###Canister Rifle Impact Blue
+grp_id: 511
+iscript_id: 241
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1380
+###Exemplar
+grp_id: 1311
+iscript_id: 376
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1310
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1381
+###Exemplar Shadow
+grp_id: 1311
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1382
+###Arclite Shock Cannon Impact Damageless
+grp_id: 513
+iscript_id: 588
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1383
+###Neutron Flare Orange
+grp_id: 1319
+iscript_id: 589
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1384
+###Hallucination Projectile
+grp_id: 1313
+iscript_id: 590
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1385
+###Hallucination Field
+grp_id: 1314
+iscript_id: 591
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1386
+###Aspirant Weapon
+grp_id: 1315
+iscript_id: 592
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1387
+###Cyprian Weapon Impact
+grp_id: 1316
+iscript_id: 593
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1388
+###Gauss Rifle Impact Green
+grp_id: 1317
+iscript_id: 238
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1389
+###Canister Rifle Impact Green
+grp_id: 1318
+iscript_id: 241
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1390
+###Burst Lasers Blue Silent
+grp_id: 515
+iscript_id: 594
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1391
+###Vorvrokor Birth
+grp_id: 1320
+iscript_id: 595
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 57
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1392
+###Skithrokor
+grp_id: 1321
+iscript_id: 596
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1322
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1393
+###Skithrokor Shadow
+grp_id: 1321
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1394
+###Skithrok Scab
+grp_id: 1323
+iscript_id: 597
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1325
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1395
+###Skithrok Scab Shadow
+grp_id: 1324
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1396
+###Autocrat
+grp_id: 1334
+iscript_id: 604
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1397
+###Autocrat Shadow
+grp_id: 1335
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1398
+###Olympian
+grp_id: 1332
+iscript_id: 603
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1399
+###Olympian Shadow
+grp_id: 1333
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1400
+###Guildhall
+grp_id: 1336
+iscript_id: 605
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1486
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1401
+###Guildhall Shadow
+grp_id: 1337
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1402
+###Liiralisk
+grp_id: 1327
+iscript_id: 599
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1329
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1403
+###Liiralisk Shadow
+grp_id: 1328
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1404
+###Sovroleth
+grp_id: 1326
+iscript_id: 600
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1405
+###Sovroleth Shadow
+grp_id: 1326
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1406
+###Seeker Spores Bounce
+grp_id: 496
+iscript_id: 601
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1407
+###Sovroleth Birth (Single)
+grp_id: 1152
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1408
+###Burst Lasers Bounce
+grp_id: 515
+iscript_id: 602
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1409
+###Striga
+grp_id: 1338
+iscript_id: 606
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1341
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1410
+###Striga Shadow
+grp_id: 1339
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1411
+###Luminary
+grp_id: 1340
+iscript_id: 607
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1412
+###Luminary Shadow
+grp_id: 1340
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1413
+###Axitrilisk
+grp_id: 1342
+iscript_id: 608
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1159
+overlay_damage: 0
+overlay_special: 1366
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1414
+###Axitrilisk Shadow
+grp_id: 1343
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1415
+###Axitrilisk Corpse
+grp_id: 1344
+iscript_id: 19
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1416
+###Anticthon
+grp_id: 1346
+iscript_id: 610
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1417
+###Anticthon Shadow
+grp_id: 1347
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1418
+###Anthelion
+grp_id: 1345
+iscript_id: 609
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1419
+###Anthelion Shadow
+grp_id: 1345
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1420
+###Tinkerer's Tower
+grp_id: 1348
+iscript_id: 611
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1352
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1421
+###Tinkerer's Tower Shadow
+grp_id: 1349
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1422
+###Biotic Base
+grp_id: 1350
+iscript_id: 612
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1353
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1423
+###Biotic Base Shadow
+grp_id: 1351
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1424
+###Prostration Stage
+grp_id: 1354
+iscript_id: 613
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1356
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1425
+###Prostration Stage Shadow
+grp_id: 1355
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1426
+###Prostration Stage Warp In
+grp_id: 1354
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1427
+###Rogue Gallery
+grp_id: 1357
+iscript_id: 614
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1359
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1428
+###Rogue Gallery Shadow
+grp_id: 1358
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1429
+###Rogue Gallery Warp In
+grp_id: 1357
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1430
+###Wayward Lure
+grp_id: 1360
+iscript_id: 615
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1362
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1431
+###Wayard Lure Shadow
+grp_id: 1361
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1432
+###Wayward Lure Warp In
+grp_id: 1360
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1433
+###Monument of Sin
+grp_id: 1363
+iscript_id: 616
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1365
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1434
+###Monument of Sin Shadow
+grp_id: 1364
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1435
+###Monument of Sin Warp In
+grp_id: 1363
+iscript_id: 192
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 17
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1436
+###Empress
+grp_id: 1369
+iscript_id: 617
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1437
+###Empress Shadow
+grp_id: 1369
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1438
+###Tarasque Weapon 2
+grp_id: 496
+iscript_id: 618
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1439
+###Tarasque
+grp_id: 254
+iscript_id: 619
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1440
+###Tarasque Shadow
+grp_id: 257
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1441
+###Explosion Small Reversed
+grp_id: 217
+iscript_id: 620
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1442
+###Explosion Blue Small Reversed
+grp_id: 217
+iscript_id: 620
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1443
+###Explosion Medium Reversed
+grp_id: 218
+iscript_id: 621
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1444
+###Explosion Blue Medium Reversed
+grp_id: 218
+iscript_id: 621
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1445
+###Zealot Death Reversed
+grp_id: 155
+iscript_id: 622
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1446
+###Neutron Flare Orange Damageless
+grp_id: 1319
+iscript_id: 624
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1447
+###Orboth Omlia
+grp_id: 1370
+iscript_id: 625
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1372
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1448
+###Orboth Omlia Shadow
+grp_id: 1371
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1449
+###Ovileth Death Reversed
+grp_id: 45
+iscript_id: 626
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1450
+###Zerg Air Explosion Large Reversed
+grp_id: 59
+iscript_id: 627
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1451
+###Zerg Air Explosion Small Reversed
+grp_id: 60
+iscript_id: 627
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1452
+###Ion Cannon Underlay
+grp_id: 1373
+iscript_id: 628
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1453
+###Ion Cannon Attack A
+grp_id: 1374
+iscript_id: 629
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1454
+###Ion Cannon Attack B
+grp_id: 1374
+iscript_id: 630
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1455
+###Anthelion Teleport Depart
+grp_id: 1375
+iscript_id: 631
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1456
+###Anthelion Teleport Arrive
+grp_id: 1376
+iscript_id: 632
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1457
+###Skithrokor Birth
+grp_id: 1377
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1458
+###Konvilisk Birth
+grp_id: 1378
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1459
+###Geszithalor Birth
+grp_id: 1379
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1460
+###Liiralisk Birth
+grp_id: 1380
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1461
+###Arclite Shock Cannon Impact Damageless Silent
+grp_id: 513
+iscript_id: 633
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1462
+###Dermal Accelerant Small
+grp_id: 1381
+iscript_id: 634
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1463
+###Dermal Accelerant Medium
+grp_id: 1382
+iscript_id: 634
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1464
+###Dermal Accelerant Large
+grp_id: 1383
+iscript_id: 634
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1465
+###Dermal Accelerant XLarge
+grp_id: 1384
+iscript_id: 634
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1466
+###Sublime Shepherd Large
+grp_id: 1385
+iscript_id: 537
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1467
+###Sublime Shepherd Medium
+grp_id: 1386
+iscript_id: 537
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1468
+###Sublime Shepherd Small
+grp_id: 1387
+iscript_id: 537
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1469
+###Magnetar
+grp_id: 1388
+iscript_id: 635
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1470
+###Magnetar Shadow
+grp_id: 1388
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1471
+###Magnetar Engines
+grp_id: 1389
+iscript_id: 370
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1472
+###Izirokor
+grp_id: 1390
+iscript_id: 636
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1473
+###Izirokor Shadow
+grp_id: 1391
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1474
+###Izirokor Corpse
+grp_id: 1392
+iscript_id: 79
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1475
+###Izirokor Birth
+grp_id: 1393
+iscript_id: 36
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1476
+###Izirokor Projectile
+grp_id: 1394
+iscript_id: 637
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1477
+###Cuirass Stonewall Protocol Overlay
+grp_id: 1395
+iscript_id: 638
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1478
+###Cyclops Fragmentary explosion
+grp_id: 1396
+iscript_id: 639
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1479
+###Creep Morph Overlay
+grp_id: 1397
+iscript_id: 640
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1480
+###Salvage Periodic Zap
+grp_id: 1398
+iscript_id: 641
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1481
+###Salvage Disable (Small)
+grp_id: 1399
+iscript_id: 642
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1482
+###Salvage Disable (Medium)
+grp_id: 1400
+iscript_id: 642
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1483
+###Salvage Disable (Large)
+grp_id: 1401
+iscript_id: 642
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1484
+###Resource Boost Overlay (Small)
+grp_id: 1402
+iscript_id: 640
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1485
+###Resource Boost Overlay (Medium)
+grp_id: 1403
+iscript_id: 640
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1486
+###Resource Boost Overlay (Large)
+grp_id: 1404
+iscript_id: 640
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1487
+###Infested Overlay (Small)
+grp_id: 1405
+iscript_id: 60
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1488
+###Infested Overlay (Medium)
+grp_id: 1406
+iscript_id: 60
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1489
+###Infested Overlay (Large)
+grp_id: 1407
+iscript_id: 60
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1490
+###Gas Raw
+grp_id: 1408
+iscript_id: 643
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1491
+###Gas Raw 2
+grp_id: 1408
+iscript_id: 644
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1492
+###Worship (Small)
+grp_id: 1409
+iscript_id: 645
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1493
+###Worship (Medium)
+grp_id: 1410
+iscript_id: 645
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1494
+###Worship (Large)
+grp_id: 1411
+iscript_id: 645
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1495
+###Controlled Demolition
+grp_id: 1412
+iscript_id: 646
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1496
+###Emergency Detonation
+grp_id: 1413
+iscript_id: 646
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1497
+###Madrigal Corpse
+grp_id: 1414
+iscript_id: 647
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1498
+###Penumbra Corpse
+grp_id: 1415
+iscript_id: 648
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1499
+###Tarasque Muzzle Flash
+grp_id: 1416
+iscript_id: 649
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1500
+###Blackjack Corpse
+grp_id: 1417
+iscript_id: 650
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1501
+###Sovroleth Birth (Double)
+grp_id: 1418
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 1331
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1502
+###Gods Made Flesh Small
+grp_id: 1419
+iscript_id: 651
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1503
+###Gods Made Flesh Medium
+grp_id: 1420
+iscript_id: 651
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1504
+###Gods Made Flesh Large
+grp_id: 1421
+iscript_id: 651
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1505
+###Burst Lasers Blue Impact Damageless
+grp_id: 465
+iscript_id: 294
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1506
+###Cohort Birth
+grp_id: 1422
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1507
+###Tarasque Birth
+grp_id: 1423
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1508
+###Plague Channel Overlay
+grp_id: 415
+iscript_id: 297
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1509
+###Plague Field
+grp_id: 1424
+iscript_id: 652
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1510
+###Charlatan Birth
+grp_id: 1425
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1511
+###Anticthon Birth
+grp_id: 1426
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1512
+###Gosvileth
+grp_id: 1427
+iscript_id: 653
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 19
+overlay_damage: 0
+overlay_special: 1452
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1513
+###Gosvileth Shadow
+grp_id: 1427
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1514
+###Gosvileth Birth
+grp_id: 1428
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1515
+###Artisan
+grp_id: 1429
+iscript_id: 654
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 20
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 133
+###
+#####image_1516
+###Artisan Shadow
+grp_id: 1429
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1517
+###Empress Birth
+grp_id: 1430
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1518
+###Othstoleth Birth
+grp_id: 1431
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1519
+###Tyranny Stun (Small)
+grp_id: 1432
+iscript_id: 655
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1520
+###Tyranny Stun (Medium)
+grp_id: 1433
+iscript_id: 655
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1521
+###Tyranny Stun (Large)
+grp_id: 1434
+iscript_id: 655
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1522
+###Tyranny Stun (XLarge)
+grp_id: 1435
+iscript_id: 655
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1523
+###Spore Colony (copy)
+grp_id: 119
+iscript_id: 59
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1436
+overlay_damage: 120
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1524
+###Fusion Cutter Hit Damageless
+grp_id: 507
+iscript_id: 656
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1525
+###Axitrilisk Birth
+grp_id: 1437
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1526
+###Akistrokor Birth
+grp_id: 1438
+iscript_id: 657
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1527
+###Alaszileth Birth
+grp_id: 1439
+iscript_id: 657
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1528
+###Keskathalor Spores
+grp_id: 496
+iscript_id: 658
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1529
+###Seeker Spores (Double Silent)
+grp_id: 496
+iscript_id: 658
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1530
+###Kagralisk
+grp_id: 1440
+iscript_id: 660
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1531
+###Kagralisk Shadow
+grp_id: 1441
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1532
+###Kagralisk Remains
+grp_id: 1442
+iscript_id: 661
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1533
+###DEFECTIVE
+grp_id: 1443
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1534
+###Kagralisk Weapon Hit
+grp_id: 1444
+iscript_id: 662
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1535
+###Izkag Iteth
+grp_id: 1445
+iscript_id: 663
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 1447
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1536
+###Izkag Iteth Shadow
+grp_id: 1446
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1537
+###Kagralisk Venom
+grp_id: 1448
+iscript_id: 664
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 2
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1538
+###Kagralisk Birth
+grp_id: 1443
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1539
+###Neutron Flare Blue Damageless
+grp_id: 907
+iscript_id: 589
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 3
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1540
+###Evigrilisk
+grp_id: 1449
+iscript_id: 665
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 28
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1541
+###Evigrilisk Shadow
+grp_id: 1450
+iscript_id: 275
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1542
+###Evigrilisk Remains
+grp_id: 1451
+iscript_id: 361
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1543
+###Evigrilisk Birth
+grp_id: 1453
+iscript_id: 36
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1544
+###Sentinel Base
+grp_id: 1454
+iscript_id: 666
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1468
+overlay_damage: 318
+overlay_special: 0
+overlay_landing: 1467
+overlay_liftoff: 1466
+overlay_shield: 2
+###
+#####image_1545
+###Sentinel Turret
+grp_id: 1455
+iscript_id: 667
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1468
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1546
+###Sentinel Shadow
+grp_id: 1456
+iscript_id: 275
+graphic_turns: 0
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 0
+draw_func: 10
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1547
+###Simulacrum Autovitality Proc
+grp_id: 1457
+iscript_id: 668
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1548
+###Recharge Shields Medium
+grp_id: 1458
+iscript_id: 309
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 1
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1549
+###Recharge Shields XLarge
+grp_id: 1459
+iscript_id: 309
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 1
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1550
+###Idol Weapon Hit
+grp_id: 1463
+iscript_id: 670
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1551
+###Bunker (new)
+grp_id: 327
+iscript_id: 123
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 328
+overlay_damage: 329
+overlay_special: 0
+overlay_landing: 1465
+overlay_liftoff: 1464
+overlay_shield: 2
+###
+#####image_1552
+###Watchdog Base (new)
+grp_id: 317
+iscript_id: 119
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 318
+overlay_special: 0
+overlay_landing: 1467
+overlay_liftoff: 1466
+overlay_shield: 2
+###
+#####image_1553
+###Salamander Death
+grp_id: 1469
+iscript_id: 671
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1554
+###Photon Cannon (new)
+grp_id: 188
+iscript_id: 179
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 1470
+overlay_damage: 189
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1555
+###Vulture Engines
+grp_id: 1471
+iscript_id: 291
+graphic_turns: 1
+draw_if_cloaked: 0
+clickable: 0
+use_full_iscript: 1
+draw_func: 9
+draw_remap: 1
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1556
+###Blade Vortex Debuff (Small)
+grp_id: 1474
+iscript_id: 673
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1557
+###Blade Vortex Debuff (Medium)
+grp_id: 1475
+iscript_id: 673
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1558
+###Blade Vortex Debuff (Large)
+grp_id: 1476
+iscript_id: 673
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1559
+###Stellar Enforcement Debuff (Small)
+grp_id: 1477
+iscript_id: 674
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1560
+###Stellar Enforcement Debuff (Medium)
+grp_id: 1478
+iscript_id: 674
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1561
+###Stellar Enforcement Debuff (Large)
+grp_id: 1479
+iscript_id: 674
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1562
+###Stellar Enforcement Debuff (X-Large)
+grp_id: 1480
+iscript_id: 674
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1563
+###Exemplar Death
+grp_id: 1481
+iscript_id: 675
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1564
+###Protoss Explosion (Small)
+grp_id: 1482
+iscript_id: 676
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1565
+###Protoss Explosion (Medium)
+grp_id: 1483
+iscript_id: 676
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1566
+###Protoss Explosion (Large)
+grp_id: 1484
+iscript_id: 676
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####image_1567
+###Star Sovereign Death
+grp_id: 1485
+iscript_id: 677
+graphic_turns: 0
+draw_if_cloaked: 1
+clickable: 0
+use_full_iscript: 0
+draw_func: 9
+draw_remap: 4
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2
+###
+#####DUMMY
+###
+#####image_999
+###
+grp_id: 1
+iscript_id: 0
+graphic_turns: 1
+draw_if_cloaked: 1
+clickable: 1
+use_full_iscript: 1
+draw_func: 0
+draw_remap: 0
+overlay_attack: 0
+overlay_damage: 0
+overlay_special: 0
+overlay_landing: 0
+overlay_liftoff: 0
+overlay_shield: 2

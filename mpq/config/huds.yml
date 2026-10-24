@@ -1,0 +1,56 @@
+# config/huds.yml
+neutral: # for replays
+  image: game/nconsole_ws.pcx
+  hud_overlay: game/nconover.pcx
+  progressbar_empty: game/tpbrempt.pcx
+  progressbar_full: game/tpbrfull.pcx
+  mineral_icon: 1
+  gas_icon: 1
+  supply_icon: 1
+  command_buttons: unit/cmdbtns/tcmdbtns.grp
+  command_buttons_bin: rez/statbtnn.bin
+  chat_textbox_bounds: [] # currently defined by a bin file
+terran:
+  image: game/tconsole_ws.pcx
+  hud_overlay: game/tconover.pcx
+  progressbar_empty: game/tpbrempt.pcx
+  progressbar_full: game/tpbrfull.pcx
+  mineral_icon: 1
+  gas_icon: 1
+  supply_icon: 1
+  command_buttons: unit/cmdbtns/tcmdbtns.grp
+  command_buttons_bin: rez/statbtnt.bin
+  chat_textbox_bounds: [] # currently defined by a bin file
+protoss:
+  image: game/pconsole_ws.pcx
+  hud_overlay: game/pconover.pcx
+  progressbar_empty: game/ppbrempt.pcx
+  progressbar_full: game/ppbrfull.pcx
+  mineral_icon: 2
+  gas_icon: 2
+  supply_icon: 2
+  command_buttons: unit/cmdbtns/pcmdbtns.grp
+  command_buttons_bin: rez/statbtnp.bin
+  chat_textbox_bounds: [] # currently defined by a bin file
+zerg:
+  image: game/zconsole_ws.pcx
+  hud_overlay: game/zconover.pcx
+  progressbar_empty: game/zpbrempt.pcx
+  progressbar_full: game/zpbrfull.pcx
+  mineral_icon: 0
+  gas_icon: 0
+  supply_icon: 0
+  command_buttons: unit/cmdbtns/zcmdbtns.grp
+  command_buttons_bin: rez/statbtnz.bin
+  chat_textbox_bounds: [] # currently defined by a bin file
+askosi:
+  image: game/aconsole_ws.pcx
+  hud_overlay: game/aconover.pcx
+  progressbar_empty: game/apbrempt.pcx
+  progressbar_full: game/apbrfull.pcx
+  mineral_icon: 3
+  gas_icon: 3
+  supply_icon: 3
+  command_buttons: unit/cmdbtns/acmdbtns.grp
+  command_buttons_bin: rez/statbtna.bin
+  chat_textbox_bounds: [] # currently defined by a bin file
