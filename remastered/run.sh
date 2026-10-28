@@ -50,7 +50,10 @@ fi
 # --- Proton / wine ----------------------------------------------------------
 GE="${COSMO_GE_PROTON:-}"
 if [ -z "$GE" ]; then
-    GE="$(ls -d "$HOME"/.local/share/Steam/compatibilitytools.d/GE-Proton*-x86_64 2>/dev/null | sort -V | tail -1)"
+    # 11-7 is the pinned, boot-verified default; set COSMO_GE_PROTON to opt
+    # into a newer GE-Proton.
+    GE="$HOME/.local/share/Steam/compatibilitytools.d/GE-Proton11-7-x86_64"
+    [ -d "$GE/files/bin" ] || GE="$(ls -d "$HOME"/.local/share/Steam/compatibilitytools.d/GE-Proton*-x86_64 2>/dev/null | sort -V | tail -1)"
 fi
 if [ -z "$GE" ] || [ ! -d "$GE/files/bin" ]; then
     echo "GE-Proton not found — install it into ~/.local/share/Steam/compatibilitytools.d/" >&2
@@ -69,10 +72,10 @@ wine reg add 'HKCU\Software\Wine\DllOverrides' /v libglesv2 /d disabled /f \
 # --- maps: link CMBW maps into the SC:R install so the in-game map list
 #     shows them (Custom -> CMBW-Root) ---------------------------------------
 SC_MAPS="$BNET/drive_c/Program Files (x86)/StarCraft/Maps"
-ROOT="$HOME/Games/cosmonarchy/prefix/drive_c/Cosmonarchy"
+CM_ROOT="$HOME/Games/cosmonarchy/prefix/drive_c/Cosmonarchy"
 for src in "$GAME_ROOT/../Starcraft/Maps/CMBW-Root" \
            "$GAME_ROOT/../../Starcraft/Maps/CMBW-Root" \
-           "$ROOT/Starcraft/Maps/CMBW-Root"; do
+           "$CM_ROOT/Starcraft/Maps/CMBW-Root"; do
     if [ -d "$src" ] && [ ! -e "$SC_MAPS/CMBW-Root" ]; then
         ln -s "$src" "$SC_MAPS/CMBW-Root" 2>/dev/null || true
     fi
@@ -91,20 +94,25 @@ if [ -n "${COSMO_MAP:-}" ] && [ -f "$COSMO_MAP" ]; then
     MAPARG=(--map "$WINMAP")
 fi
 
-cd "$SELF"
+# Stable log location: the bundle dir when delegated, else beside the script.
+LOG_DIR="${SAMASE_LOG_DIR:-$HOME/.local/share/cosmonarchy-remastered}"
+[ -d "$LOG_DIR" ] || LOG_DIR="$SELF"
+cd "$LOG_DIR"
+echo "remastered/run.sh: mod=$MOD_DIR (delegated log dir: $LOG_DIR)" >&2
 
 # The game can start with its window withdrawn/dormant under Wine. Watch for
 # the window and map it as soon as it appears; one Return nudges the game
 # (skips the intro).
+DISP="${DISPLAY:-:0}"
 (
     for _ in $(seq 1 90); do
-        WID=$(DISPLAY=:0 xdotool search --name "Brood War" 2>/dev/null | head -1)
+        WID=$(DISPLAY="$DISP" xdotool search --name "Brood War" 2>/dev/null | head -1)
         if [ -n "$WID" ]; then
-            DISPLAY=:0 xdotool windowmap "$WID" 2>/dev/null
-            DISPLAY=:0 xdotool windowactivate "$WID" 2>/dev/null
+            DISPLAY="$DISP" xdotool windowmap "$WID" 2>/dev/null
+            DISPLAY="$DISP" xdotool windowactivate "$WID" 2>/dev/null
             sleep 1
-            DISPLAY=:0 xdotool key --window "$WID" Return 2>/dev/null
-            DISPLAY=:0 xdotool windowmap "$WID" 2>/dev/null
+            DISPLAY="$DISP" xdotool key --window "$WID" Return 2>/dev/null
+            DISPLAY="$DISP" xdotool windowmap "$WID" 2>/dev/null
             exit 0
         fi
         sleep 2
